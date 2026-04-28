@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/saman/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InventorySystem/BPC_Inventory.uasset",
+				"C:/Users/saman/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/saman/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InventorySystem/BP_Item.uasset",
+				"C:/Users/saman/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/C0/EEA6IM2K980WHQC1GEEW7O.uasset",
+				"C:/Users/saman/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InventorySystem/BPI_PickUp.uasset",
+				"C:/Users/saman/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/Input/Actions/IA_PickUp.uasset",
+				"C:/Users/saman/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/Input/IMC_Default.uasset",
+				"C:/Users/saman/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InventorySystem/WBP_Inventory.uasset",
+				"C:/Users/saman/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/Input/Actions/IA_Inventory.uasset",
+				"C:/Users/saman/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InventorySystem/WBP_ItemSlot.uasset"
+			]
+		}
+	]
+}
