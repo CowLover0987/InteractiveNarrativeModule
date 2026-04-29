@@ -1357,3 +1357,1545 @@ BUILD FAILED
 [2026.04.29-17.43.55:606][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
 [2026.04.29-17.43.55:626][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
 [2026.04.29-17.43.55:754][ 69]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.29-17.44.53:818][483]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.04.29-17.44.59:003][ 70]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.04.29-17.44.59:009][ 70]LogContentBrowser: Creating deferred item: NewFolder
+[2026.04.29-17.44.59:017][ 71]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.04.29-17.45.54:262][664]LogContentBrowser: Attempting asset rename: NewFolder -> InteractiveNarrative
+[2026.04.29-17.45.54:263][664]LogContentBrowser: End creating deferred item NewFolder
+[2026.04.29-17.45.56:635][916]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.04.29-17.45.56:641][916]LogContentBrowser: Creating deferred item: NewFolder
+[2026.04.29-17.45.56:686][918]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.04.29-17.45.56:937][948]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2026.04.29-17.45.56:939][948]LogContentBrowser: End creating deferred item NewFolder
+[2026.04.29-17.46.01:067][439]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2026.04.29-17.46.02:685][602]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.04.29-17.46.02:691][602]LogContentBrowser: Creating deferred item: NewFolder
+[2026.04.29-17.46.02:699][603]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.04.29-17.46.18:793][523]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2026.04.29-17.46.18:794][523]LogContentBrowser: End creating deferred item NewFolder
+[2026.04.29-17.46.20:795][734]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.04.29-17.46.20:801][734]LogContentBrowser: Creating deferred item: NewFolder
+[2026.04.29-17.46.20:810][735]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.04.29-17.46.22:243][904]LogContentBrowser: Attempting asset rename: NewFolder -> Sound
+[2026.04.29-17.46.22:244][904]LogContentBrowser: End creating deferred item NewFolder
+[2026.04.29-17.46.24:049][ 87]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.04.29-17.46.24:056][ 87]LogContentBrowser: Creating deferred item: NewFolder
+[2026.04.29-17.46.24:064][ 88]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.04.29-17.46.25:462][252]LogContentBrowser: Attempting asset rename: NewFolder -> Assets
+[2026.04.29-17.46.25:463][252]LogContentBrowser: End creating deferred item NewFolder
+[2026.04.29-17.46.27:110][424]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2026.04.29-17.46.27:116][424]LogContentBrowser: Creating deferred item: NewWorld
+[2026.04.29-17.46.27:126][425]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2026.04.29-17.46.34:339][286]LogContentBrowser: Attempting asset rename: NewWorld -> InteractiveNarratives
+[2026.04.29-17.46.34:339][286]LogChaosDD: Creating Chaos Debug Draw Scene for world InteractiveNarratives
+[2026.04.29-17.46.34:341][286]LogContentBrowser: End creating deferred item NewWorld
+[2026.04.29-17.46.34:875][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.04.29-17.46.35:825][343]LogSlate: Window 'Save Content' being destroyed
+[2026.04.29-17.46.35:841][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-17.46.35:906][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.04.29-17.46.35:915][343]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/InteractiveNarratives
+[2026.04.29-17.46.35:915][343]LogSavePackage: Moving '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/InteractiveNarratives8FCA3A514B2C9F00F70A8895A2B093B9.tmp' to '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/InteractiveNarratives.umap'
+[2026.04.29-17.46.35:921][343]LogFileHelpers: Saving map 'InteractiveNarratives' took 0.035
+[2026.04.29-17.46.35:976][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.105 ms
+[2026.04.29-17.46.35:976][343]LogAssetEditorSubsystem: Opening Asset editor for World /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives
+[2026.04.29-17.46.36:029][343]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-17.46.36:029][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.46.36:029][343]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.04.29-17.46.36:057][343]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.29-17.46.36:061][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.04.29-17.46.36:063][343]LogWorld: UWorld::CleanupWorld for InteractiveNarratives, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-17.46.36:063][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.46.36:082][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.04.29-17.46.36:103][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.04.29-17.46.36:104][343]LogStreaming: Display: FlushAsyncLoading(397): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.29-17.46.36:104][343]LogAudio: Display: Audio Device (ID: 1) registered with world 'InteractiveNarratives'.
+[2026.04.29-17.46.36:104][343]LogChaosDD: Creating Chaos Debug Draw Scene for world InteractiveNarratives
+[2026.04.29-17.46.36:136][343]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.29-17.46.36:157][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.04.29-17.46.36:163][343]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.29-17.46.36:163][343]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.047ms to complete.
+[2026.04.29-17.46.36:224][343]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-17.46.36:224][343]LogContentValidation: Enabled validators:
+[2026.04.29-17.46.36:224][343]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-17.46.36:224][343]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-17.46.36:224][343]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-17.46.36:224][343]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-17.46.36:224][343]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-17.46.36:224][343]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-17.46.36:224][343]AssetCheck: /Game/InteractiveNarrative/InteractiveNarratives Validating asset
+[2026.04.29-17.46.36:248][343]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.29-17.46.36:289][345]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.29-17.46.42:040][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.04.29-17.46.42:043][  4]LogStreaming: Display: FlushAsyncLoading(398): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.29-17.46.42:044][  4]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.04.29-17.46.42:045][  4]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.04.29-17.46.42:045][  4]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.29-17.46.42:045][  4]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.29-17.46.42:062][  4]LogWorldPartition: Display: WorldPartition initialize took 16.581 ms (total: 106.788 ms)
+[2026.04.29-17.46.42:063][  4]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.04.29-17.46.42:063][  4]Cmd: MAP LOAD FILE="../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/FirstPerson/Lvl_FirstPerson.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.29-17.46.42:110][  4]LogWorld: UWorld::CleanupWorld for InteractiveNarratives, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-17.46.42:110][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.46.42:130][  4]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.29-17.46.42:131][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.04.29-17.46.42:132][  4]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-17.46.42:132][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.46.42:132][  4]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.04.29-17.46.42:153][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.04.29-17.46.42:212][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.04.29-17.46.42:215][  4]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_FirstPerson'.
+[2026.04.29-17.46.42:215][  4]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.04.29-17.46.42:216][  4]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.04.29-17.46.42:217][  4]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.29-17.46.42:217][  4]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.29-17.46.42:234][  4]LogWorldPartition: Display: WorldPartition initialize took 16.828 ms (total: 123.616 ms)
+[2026.04.29-17.46.42:272][  4]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.29-17.46.42:293][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.04.29-17.46.42:299][  4]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.29-17.46.42:301][  4]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.907ms to complete.
+[2026.04.29-17.46.42:390][  6]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.29-17.46.44:498][228]Cmd: EDIT COPY
+[2026.04.29-17.46.48:052][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.04.29-17.46.48:054][602]LogStreaming: Display: FlushAsyncLoading(526): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.29-17.46.48:055][602]LogChaosDD: Creating Chaos Debug Draw Scene for world InteractiveNarratives
+[2026.04.29-17.46.48:056][602]LogAssetEditorSubsystem: Opening Asset editor for World /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives
+[2026.04.29-17.46.48:076][602]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-17.46.48:076][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.46.48:076][602]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.04.29-17.46.48:105][602]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.29-17.46.48:108][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.04.29-17.46.48:110][602]LogWorld: UWorld::CleanupWorld for InteractiveNarratives, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-17.46.48:110][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.46.48:129][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.04.29-17.46.48:149][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.04.29-17.46.48:179][602]LogAudio: Display: Audio Device (ID: 1) registered with world 'InteractiveNarratives'.
+[2026.04.29-17.46.48:179][602]LogChaosDD: Creating Chaos Debug Draw Scene for world InteractiveNarratives
+[2026.04.29-17.46.48:213][602]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.29-17.46.48:233][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.04.29-17.46.48:241][602]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.29-17.46.48:241][602]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.048ms to complete.
+[2026.04.29-17.46.48:296][603]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.29-17.46.50:140][811]Cmd: EDIT PASTE
+[2026.04.29-17.46.54:051][236]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.04.29-17.46.54:051][236]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.04.29-17.46.54:052][236]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives:PersistentLevel.StaticMeshActor_1
+[2026.04.29-17.46.54:052][236]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives:PersistentLevel.StaticMeshActor_1
+[2026.04.29-17.46.54:262][237]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.04.29-17.47.08:799][825]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 336.948608
+[2026.04.29-17.47.08:918][839]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-17.47.08:918][839]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 337.060486, Update Interval: 316.734528
+[2026.04.29-17.47.21:075][145]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.04.29-17.47.21:132][145]LogContentBrowser: Creating deferred item: NewFolder
+[2026.04.29-17.47.21:159][147]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.04.29-17.47.25:154][612]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2026.04.29-17.47.25:154][612]LogContentBrowser: End creating deferred item NewFolder
+[2026.04.29-17.47.27:778][877]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.04.29-17.47.27:786][877]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.04.29-17.47.27:833][879]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.04.29-17.47.29:313][ 47]LogContentBrowser: Attempting asset rename: NewMaterial -> Test
+[2026.04.29-17.47.29:314][ 47]LogContentBrowser: End creating deferred item NewMaterial
+[2026.04.29-17.47.32:904][405]LogContentBrowser: Deferred new asset file creation: Test_Inst
+[2026.04.29-17.47.32:913][405]LogContentBrowser: Creating deferred item: Test_Inst
+[2026.04.29-17.47.32:925][406]LogContentBrowser: Renaming the item being created (Deferred Item: Test_Inst).
+[2026.04.29-17.47.35:806][727]LogContentBrowser: Attempting asset rename: Test_Inst -> Floor
+[2026.04.29-17.47.35:808][727]LogContentBrowser: End creating deferred item Test_Inst
+[2026.04.29-17.47.37:922][922]LogContentBrowser: Deferred new asset file creation: Test_Inst
+[2026.04.29-17.47.37:930][922]LogContentBrowser: Creating deferred item: Test_Inst
+[2026.04.29-17.47.37:941][923]LogContentBrowser: Renaming the item being created (Deferred Item: Test_Inst).
+[2026.04.29-17.47.39:754][130]LogContentBrowser: Attempting asset rename: Test_Inst -> Forest
+[2026.04.29-17.47.39:754][130]LogContentBrowser: End creating deferred item Test_Inst
+[2026.04.29-17.47.41:380][280]LogContentBrowser: Deferred new asset file creation: Test_Inst
+[2026.04.29-17.47.41:389][280]LogContentBrowser: Creating deferred item: Test_Inst
+[2026.04.29-17.47.41:401][281]LogContentBrowser: Renaming the item being created (Deferred Item: Test_Inst).
+[2026.04.29-17.47.43:427][510]LogContentBrowser: Attempting asset rename: Test_Inst -> Important
+[2026.04.29-17.47.43:427][510]LogContentBrowser: End creating deferred item Test_Inst
+[2026.04.29-17.47.45:431][686]LogContentBrowser: Deferred new asset file creation: Test_Inst
+[2026.04.29-17.47.45:440][686]LogContentBrowser: Creating deferred item: Test_Inst
+[2026.04.29-17.47.45:453][687]LogContentBrowser: Renaming the item being created (Deferred Item: Test_Inst).
+[2026.04.29-17.47.48:314][  8]LogContentBrowser: Attempting asset rename: Test_Inst -> Unimportant
+[2026.04.29-17.47.48:314][  8]LogContentBrowser: End creating deferred item Test_Inst
+[2026.04.29-17.47.58:659][333]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/InteractiveNarrative/Assets/Materials/Test.Test
+[2026.04.29-17.47.58:666][333]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.04.29-17.47.58:672][333]LogStreaming: Display: FlushAsyncLoading(528): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.29-17.47.58:698][333]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2026.04.29-17.47.59:282][333]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.47.59:282][333]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.47.59:282][333]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.47.59:282][333]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.47.59:297][333]LogSlate: Took 0.006756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.04.29-17.47.59:394][335]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-17.47.59:394][335]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.47.59:394][335]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-17.47.59:394][335]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.47.59:394][335]MaterialEditorStats: Shader Count: 5
+[2026.04.29-17.47.59:394][335]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.48.00:880][455]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.48.00:880][455]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.00:880][455]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.48.00:880][455]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.48.00:958][457]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-17.48.00:958][457]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.48.00:958][457]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-17.48.00:958][457]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.00:958][457]MaterialEditorStats: Shader Count: 5
+[2026.04.29-17.48.00:958][457]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.48.02:393][576]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.48.02:393][576]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.02:393][576]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.48.02:393][576]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.48.02:461][577]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.48.02:461][577]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.48.02:461][577]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.02:461][577]MaterialEditorStats: Shader Count: 2
+[2026.04.29-17.48.02:461][577]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-17.48.03:746][669]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.48.03:746][669]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.03:746][669]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.48.03:746][669]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.04.29-17.48.03:838][671]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-17.48.03:838][671]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.48.03:838][671]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-17.48.03:838][671]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.03:838][671]MaterialEditorStats: Shader Count: 5
+[2026.04.29-17.48.03:838][671]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.04.29-17.48.07:360][975]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.48.07:360][975]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.07:360][975]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.48.07:360][975]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.04.29-17.48.07:423][977]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-17.48.07:423][977]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.48.07:423][977]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-17.48.07:423][977]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.07:423][977]MaterialEditorStats: Shader Count: 5
+[2026.04.29-17.48.07:423][977]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.04.29-17.48.07:940][ 14]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.48.07:940][ 14]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.07:940][ 14]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.48.07:940][ 14]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.04.29-17.48.07:995][ 16]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-17.48.07:995][ 16]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.48.07:995][ 16]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-17.48.07:995][ 16]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.07:995][ 16]MaterialEditorStats: Shader Count: 5
+[2026.04.29-17.48.07:995][ 16]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.04.29-17.48.08:483][ 51]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.48.08:483][ 51]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.08:483][ 51]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.48.08:483][ 51]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.04.29-17.48.08:540][ 53]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-17.48.08:540][ 53]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.48.08:540][ 53]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-17.48.08:540][ 53]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.08:540][ 53]MaterialEditorStats: Shader Count: 5
+[2026.04.29-17.48.08:540][ 53]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.04.29-17.48.14:679][565]LogShaderCompilers: Display: Cancelled job 0x00000243CF6A4600 with pending SubmitJob call.
+[2026.04.29-17.48.14:680][565]LogShaderCompilers: Display: Cancelled job 0x00000243CF6A3C00 with pending SubmitJob call.
+[2026.04.29-17.48.14:690][565]LogShaderCompilers: Display: Cancelled job 0x00000243CF6A7800 with pending SubmitJob call.
+[2026.04.29-17.48.14:692][565]LogShaderCompilers: Display: Cancelled job 0x00000243CF6AA000 with pending SubmitJob call.
+[2026.04.29-17.48.14:694][565]LogShaderCompilers: Display: Cancelled job 0x00000243CF6A8200 with pending SubmitJob call.
+[2026.04.29-17.48.14:702][565]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.48.14:702][565]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.14:702][565]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.48.14:702][565]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.04.29-17.48.14:756][566]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.48.14:757][566]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.48.14:757][566]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.14:757][566]MaterialEditorStats: Shader Count: 3
+[2026.04.29-17.48.14:757][566]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.04.29-17.48.14:794][567]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-17.48.14:795][567]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.48.14:795][567]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-17.48.14:795][567]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.14:795][567]MaterialEditorStats: Shader Count: 5
+[2026.04.29-17.48.14:795][567]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2026.04.29-17.48.31:824][948]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.48.31:824][948]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.31:824][948]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.48.31:824][948]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2026.04.29-17.48.31:923][951]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.48.31:923][951]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.48.31:923][951]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.31:923][951]MaterialEditorStats: Shader Count: 2
+[2026.04.29-17.48.31:923][951]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2026.04.29-17.48.33:621][ 69]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.48.33:621][ 69]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.33:621][ 69]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.48.33:621][ 69]MaterialEditorStats: Preshaders: 5  (5 param fetches, 8 ops)
+[2026.04.29-17.48.33:701][ 71]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.48.33:701][ 71]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.48.33:701][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.33:702][ 71]MaterialEditorStats: Shader Count: 2
+[2026.04.29-17.48.33:702][ 71]MaterialEditorStats: Preshaders: 5  (5 param fetches, 8 ops)
+[2026.04.29-17.48.34:492][123]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-17.48.34:492][123]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.48.34:492][123]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-17.48.34:492][123]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.34:492][123]MaterialEditorStats: Shader Count: 4
+[2026.04.29-17.48.34:492][123]MaterialEditorStats: Preshaders: 5  (5 param fetches, 8 ops)
+[2026.04.29-17.48.36:514][272]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.48.36:514][272]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.36:514][272]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.48.36:514][272]MaterialEditorStats: Preshaders: 5  (5 param fetches, 8 ops)
+[2026.04.29-17.48.36:553][275]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-17.48.36:553][275]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.48.36:553][275]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-17.48.36:553][275]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.36:553][275]MaterialEditorStats: Shader Count: 5
+[2026.04.29-17.48.36:553][275]MaterialEditorStats: Preshaders: 5  (5 param fetches, 8 ops)
+[2026.04.29-17.48.38:268][409]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.48.38:268][409]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.38:268][409]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.48.38:268][409]MaterialEditorStats: Preshaders: 6  (6 param fetches, 9 ops)
+[2026.04.29-17.48.38:369][411]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.48.38:369][411]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.48.38:369][411]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.38:370][411]MaterialEditorStats: Shader Count: 2
+[2026.04.29-17.48.38:370][411]MaterialEditorStats: Preshaders: 6  (6 param fetches, 9 ops)
+[2026.04.29-17.48.39:050][458]MaterialEditorStats: Base pass shader: 180 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-17.48.39:050][458]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.48.39:050][458]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-17.48.39:050][458]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.39:050][458]MaterialEditorStats: Shader Count: 4
+[2026.04.29-17.48.39:050][458]MaterialEditorStats: Preshaders: 6  (6 param fetches, 9 ops)
+[2026.04.29-17.48.39:912][522]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-17.48.39:912][522]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.39:912][522]MaterialEditorStats: Shader Count: 0
+[2026.04.29-17.48.39:912][522]MaterialEditorStats: Preshaders: 6  (6 param fetches, 9 ops)
+[2026.04.29-17.48.39:952][525]MaterialEditorStats: Base pass shader: 180 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-17.48.39:952][525]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-17.48.39:952][525]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-17.48.39:952][525]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-17.48.39:952][525]MaterialEditorStats: Shader Count: 5
+[2026.04.29-17.48.39:952][525]MaterialEditorStats: Preshaders: 6  (6 param fetches, 9 ops)
+[2026.04.29-17.48.41:132][618]LogMaterialEditor: Applying material Test
+[2026.04.29-17.48.41:291][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.04.29-17.48.42:566][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.04.29-17.48.47:201][990]LogMaterialEditor: Applying material Test
+[2026.04.29-17.48.47:329][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.04.29-17.48.47:499][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.04.29-17.48.48:441][ 56]LogSlate: Window 'Test' being destroyed
+[2026.04.29-17.48.48:448][ 56]LogSlate: Window 'Test' being destroyed
+[2026.04.29-17.48.48:471][ 56]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-17.48.48:471][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.48.48:507][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.04.29-17.48.53:139][463]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/InteractiveNarrative/Assets/Materials/Floor.Floor
+[2026.04.29-17.48.53:142][463]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.04.29-17.49.00:559][986]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.29-17.49.02:309][131]LogSlate: Window 'Floor' being destroyed
+[2026.04.29-17.49.02:318][131]LogSlate: Window 'Floor' being destroyed
+[2026.04.29-17.49.02:357][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.04.29-17.49.02:421][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.04.29-17.49.02:449][131]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-17.49.02:449][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.49.02:482][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.04.29-17.49.04:093][285]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/InteractiveNarrative/Assets/Materials/Forest.Forest
+[2026.04.29-17.49.04:095][285]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.04.29-17.49.10:058][671]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.29-17.49.11:463][786]LogSlate: Window 'Forest' being destroyed
+[2026.04.29-17.49.11:472][786]LogSlate: Window 'Forest' being destroyed
+[2026.04.29-17.49.11:509][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.04.29-17.49.11:567][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.04.29-17.49.11:597][786]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-17.49.11:597][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.49.11:629][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.04.29-17.49.13:061][916]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/InteractiveNarrative/Assets/Materials/Important.Important
+[2026.04.29-17.49.13:064][916]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.04.29-17.49.18:051][229]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.29-17.49.19:175][317]LogSlate: Window 'Important' being destroyed
+[2026.04.29-17.49.19:183][317]LogSlate: Window 'Important' being destroyed
+[2026.04.29-17.49.19:222][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.04.29-17.49.19:285][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.04.29-17.49.19:314][317]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-17.49.19:314][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.49.19:346][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.04.29-17.49.21:215][480]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/InteractiveNarrative/Assets/Materials/Unimportant.Unimportant
+[2026.04.29-17.49.21:219][480]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.04.29-17.49.27:055][845]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.29-17.49.28:447][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-17.49.28:490][953]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InteractiveNarrative/Assets/Materials/Unimportant] ([1] browsable assets)...
+[2026.04.29-17.49.28:528][953]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/InteractiveNarrative/Assets/Materials/Unimportant.Unimportant]
+[2026.04.29-17.49.28:528][953]OBJ SavePackage: Finished generating thumbnails for package [/Game/InteractiveNarrative/Assets/Materials/Unimportant]
+[2026.04.29-17.49.28:568][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.04.29-17.49.28:590][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.04.29-17.49.28:598][953]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/Assets/Materials/Unimportant
+[2026.04.29-17.49.28:599][953]LogSavePackage: Moving '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/Unimportant64248DEB41DAF90DDE46ED94DDB90615.tmp' to '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/Assets/Materials/Unimportant.uasset'
+[2026.04.29-17.49.28:616][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.844 ms (total: 302.949 ms)
+[2026.04.29-17.49.28:664][953]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-17.49.28:664][953]LogContentValidation: Enabled validators:
+[2026.04.29-17.49.28:664][953]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-17.49.28:664][953]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-17.49.28:664][953]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-17.49.28:664][953]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-17.49.28:664][953]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-17.49.28:664][953]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-17.49.28:664][953]AssetCheck: /Game/InteractiveNarrative/Assets/Materials/Unimportant Validating asset
+[2026.04.29-17.49.28:690][953]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.29-17.49.29:240][998]LogSlate: Window 'Unimportant' being destroyed
+[2026.04.29-17.49.29:247][998]LogSlate: Window 'Unimportant' being destroyed
+[2026.04.29-17.49.29:264][998]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-17.49.29:264][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.49.29:298][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.04.29-17.49.36:465][659]LogContentBrowser: Deferred new asset file creation: Test_Inst
+[2026.04.29-17.49.36:474][659]LogContentBrowser: Creating deferred item: Test_Inst
+[2026.04.29-17.49.36:490][660]LogContentBrowser: Renaming the item being created (Deferred Item: Test_Inst).
+[2026.04.29-17.49.38:202][849]LogContentBrowser: Attempting asset rename: Test_Inst -> Road
+[2026.04.29-17.49.38:203][849]LogContentBrowser: End creating deferred item Test_Inst
+[2026.04.29-17.49.40:215][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-17.49.40:301][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.04.29-17.49.40:313][ 61]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/InteractiveNarratives
+[2026.04.29-17.49.40:314][ 61]LogSavePackage: Moving '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/InteractiveNarrativesD6DDD7DA4965AE58C5E1B68F9BE302F4.tmp' to '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/InteractiveNarratives.umap'
+[2026.04.29-17.49.40:322][ 61]LogFileHelpers: Saving map 'InteractiveNarratives' took 0.061
+[2026.04.29-17.49.40:335][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.549 ms (total: 422.499 ms)
+[2026.04.29-17.49.40:379][ 61]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-17.49.40:379][ 61]LogContentValidation: Enabled validators:
+[2026.04.29-17.49.40:379][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-17.49.40:379][ 61]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-17.49.40:379][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-17.49.40:379][ 61]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-17.49.40:379][ 61]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-17.49.40:379][ 61]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-17.49.40:379][ 61]AssetCheck: /Game/InteractiveNarrative/InteractiveNarratives Validating asset
+[2026.04.29-17.49.42:752][287]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.04.29-17.49.48:435][902]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.04.29-17.49.48:435][902]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.04.29-17.49.48:437][902]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives:PersistentLevel.StaticMeshActor_2
+[2026.04.29-17.49.48:437][902]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives:PersistentLevel.StaticMeshActor_2
+[2026.04.29-17.50.21:368][370]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.29-17.50.21:373][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-17.50.21:378][370]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.04.29-17.50.21:378][370]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.04.29-17.50.21:378][370]LogPlayLevel: Creating play world package: /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives
+[2026.04.29-17.50.21:380][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001601s)
+[2026.04.29-17.50.21:380][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives to /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives.InteractiveNarratives (0.001661s)
+[2026.04.29-17.50.21:401][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.04.29-17.50.21:404][370]LogChaosDD: Creating Chaos Debug Draw Scene for world InteractiveNarratives
+[2026.04.29-17.50.21:405][370]LogPlayLevel: PIE: World Init took: (0.001897s)
+[2026.04.29-17.50.21:407][370]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.04.29-17.50.21:407][370]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-17.50.21:407][370]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-17.50.21:407][370]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-17.50.21:407][370]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-17.50.21:407][370]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-17.50.21:407][370]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-17.50.21:407][370]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-17.50.21:407][370]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-17.50.21:407][370]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-17.50.21:407][370]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-17.50.21:407][370]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-17.50.21:409][370]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-17.50.21:454][370]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova Pro)
+[2026.04.29-17.50.21:455][370]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-17.50.21:455][370]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-17.50.21:455][370]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-17.50.21:455][370]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.04.29-17.50.21:455][370]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.04.29-17.50.21:459][370]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.04.29-17.50.21:459][370]LogInit: FAudioDevice initialized with ID 2.
+[2026.04.29-17.50.21:459][370]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.04.29-17.50.21:459][370]LogAudio: Display: Audio Device (ID: 2) registered with world 'InteractiveNarratives'.
+[2026.04.29-17.50.21:459][370]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.04.29-17.50.21:463][370]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.29-17.50.21:463][370]LogWorld: Bringing World /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives.InteractiveNarratives up for play (max tick rate 0) at 2026.04.29-18.50.21
+[2026.04.29-17.50.21:464][370]LogWorld: Bringing up level for play took: 0.000630
+[2026.04.29-17.50.21:466][370]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2026.04.29-17.50.21:476][370]PIE: Server logged in
+[2026.04.29-17.50.21:478][370]PIE: Play in editor total start time 0.105 seconds.
+[2026.04.29-17.50.21:554][371]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.29-17.50.24:709][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-17.50.24:709][702]LogWorld: BeginTearingDown for /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives
+[2026.04.29-17.50.24:709][702]LogWorld: UWorld::CleanupWorld for InteractiveNarratives, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-17.50.24:709][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.50.24:710][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-17.50.24:713][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.50.24:733][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-17.50.24:733][702]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.04.29-17.50.24:733][702]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.04.29-17.50.24:736][702]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.04.29-17.50.24:742][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.04.29-17.50.24:828][703]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2026.04.29-17.50.28:093][ 75]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.29-17.50.28:099][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-17.50.28:129][ 75]LogPlayLevel: Creating play world package: /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives
+[2026.04.29-17.50.28:131][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001636s)
+[2026.04.29-17.50.28:131][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives to /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives.InteractiveNarratives (0.001672s)
+[2026.04.29-17.50.28:148][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.04.29-17.50.28:151][ 75]LogChaosDD: Creating Chaos Debug Draw Scene for world InteractiveNarratives
+[2026.04.29-17.50.28:152][ 75]LogPlayLevel: PIE: World Init took: (0.001675s)
+[2026.04.29-17.50.28:153][ 75]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.04.29-17.50.28:153][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-17.50.28:153][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-17.50.28:153][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-17.50.28:153][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-17.50.28:153][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-17.50.28:153][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-17.50.28:153][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-17.50.28:153][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-17.50.28:153][ 75]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-17.50.28:153][ 75]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-17.50.28:153][ 75]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-17.50.28:156][ 75]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-17.50.28:195][ 75]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova Pro)
+[2026.04.29-17.50.28:195][ 75]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-17.50.28:195][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-17.50.28:195][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-17.50.28:195][ 75]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.04.29-17.50.28:195][ 75]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.04.29-17.50.28:199][ 75]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.04.29-17.50.28:199][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.04.29-17.50.28:199][ 75]LogInit: FAudioDevice initialized with ID 3.
+[2026.04.29-17.50.28:199][ 75]LogAudio: Display: Audio Device (ID: 3) registered with world 'InteractiveNarratives'.
+[2026.04.29-17.50.28:199][ 75]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.29-17.50.28:203][ 75]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.29-17.50.28:204][ 75]LogWorld: Bringing World /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives.InteractiveNarratives up for play (max tick rate 0) at 2026.04.29-18.50.28
+[2026.04.29-17.50.28:204][ 75]LogWorld: Bringing up level for play took: 0.000587
+[2026.04.29-17.50.28:206][ 75]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2026.04.29-17.50.28:213][ 75]PIE: Server logged in
+[2026.04.29-17.50.28:215][ 75]PIE: Play in editor total start time 0.116 seconds.
+[2026.04.29-17.50.28:264][ 76]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.29-17.50.30:788][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-17.50.30:788][366]LogWorld: BeginTearingDown for /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives
+[2026.04.29-17.50.30:788][366]LogWorld: UWorld::CleanupWorld for InteractiveNarratives, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-17.50.30:788][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.50.30:790][366]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-17.50.30:794][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.50.30:813][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-17.50.30:813][366]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.29-17.50.30:813][366]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.04.29-17.50.30:815][366]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.04.29-17.50.30:821][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.04.29-17.50.30:903][367]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: ================================================
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Total job queries 607, among them cache hits 137 (22.57%), DDC hits 371 (61.12%), Duplicates 82 (13.51%)
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Tracking 388 distinct input hashes that result in 284 distinct outputs (73.20%)
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: RAM used: 3.59 MiB of 3.20 GiB budget. Usage: 0.11%
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Shaders Compiled: 17
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Jobs assigned 17, completed 17 (100%)
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Average time worker was idle: 8.85 s
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.10 s
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Job execution time: average 0.85 s, max 1.33 s
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Job life time (pending + execution): average 0.90 s, max 1.33
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Shader code size: total 137.585 KiB, numShaders 17, average 8.093 KiB, min 4.277 KiB, max 11.397 KiB
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.41 s
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Jobs were issued in 17 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Average processing rate: 2.65 jobs/sec
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Total thread time: 11.713 s
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Total thread preprocess time: 9.643 s
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Percentage time preprocessing: 82.32%
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Effective parallelization: 1.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.228278
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 1.11 sec, max 1.19 sec, min 1.05 sec)
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.96 sec, max 0.96 sec, min 0.96 sec)
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.64 sec, max 0.67 sec, min 0.62 sec)
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 37.81% of total time (compiled    4 times, average 1.11 sec, max 1.19 sec, min 1.05 sec)
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.96% of total time (compiled    4 times, average 0.64 sec, max 0.67 sec, min 0.62 sec)
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display:                                                 FLumenCardPS - 15.42% of total time (compiled    4 times, average 0.45 sec, max 0.46 sec, min 0.42 sec)
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.23% of total time (compiled    1 times, average 0.96 sec, max 0.96 sec, min 0.96 sec)
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 6.79% of total time (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: === Material stats ===
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Materials Translated:    177
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Material Translation Only: 0.06 s (50%)
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: Material Cache Hits: 41 (23%)
+[2026.04.29-17.50.36:135][936]LogShaderCompilers: Display: ================================================
+[2026.04.29-17.50.38:665][205]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.04.29-17.50.38:785][208]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.04.29-17.50.38:833][209]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.04.29-17.50.38:862][210]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.04.29-17.50.38:888][211]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.04.29-17.50.38:916][212]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.04.29-17.50.38:941][213]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.04.29-17.50.38:968][214]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.04.29-17.50.38:997][215]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.04.29-17.50.39:023][216]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.04.29-17.50.39:048][217]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.04.29-17.50.39:077][218]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.04.29-17.50.39:104][219]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.04.29-17.50.39:134][220]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.04.29-17.50.39:160][221]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.04.29-17.50.39:202][222]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.04.29-17.50.39:244][223]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.04.29-17.50.39:283][224]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.04.29-17.50.39:310][225]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.04.29-17.50.39:350][226]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.04.29-17.50.39:392][227]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.04.29-17.50.39:434][228]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.04.29-17.50.39:460][229]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.04.29-17.50.39:487][230]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.04.29-17.50.39:514][231]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2026.04.29-17.50.39:541][232]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2026.04.29-17.50.39:568][233]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.04.29-17.50.39:598][234]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2026.04.29-17.50.39:629][235]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2026.04.29-17.50.39:658][236]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2026.04.29-17.50.39:689][237]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2026.04.29-17.50.39:719][238]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2026.04.29-17.50.39:749][239]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2026.04.29-17.50.39:778][240]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2026.04.29-17.50.39:824][241]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2026.04.29-17.50.39:875][242]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.04.29-17.50.39:916][243]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.04.29-17.50.39:978][244]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AssetsvilleTown/Meshes/Characters/SK_citizen_female_11.SK_citizen_female_11
+[2026.04.29-17.50.39:978][244]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AssetsvilleTown/Meshes/Characters/SK_citizen_female_11.SK_citizen_female_11
+[2026.04.29-17.50.39:978][244]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AssetsvilleTown/Meshes/Characters/SK_citizen_female_11.SK_citizen_female_11 as actor: SkeletalMeshActor /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives:PersistentLevel.SkeletalMeshActor_0
+[2026.04.29-17.50.39:979][244]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AssetsvilleTown/Meshes/Characters/SK_citizen_female_11.SK_citizen_female_11 as actor: SkeletalMeshActor /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives:PersistentLevel.SkeletalMeshActor_0
+[2026.04.29-17.50.39:983][244]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.04.29-17.50.40:506][265]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2026.04.29-17.50.40:528][266]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2026.04.29-17.50.40:565][267]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2026.04.29-17.50.40:601][268]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2026.04.29-17.50.40:634][269]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2026.04.29-17.50.40:676][270]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2026.04.29-17.50.40:710][271]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2026.04.29-17.50.40:739][272]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2026.04.29-17.50.40:768][273]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2026.04.29-17.50.40:800][274]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2026.04.29-17.50.40:831][275]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2026.04.29-17.50.40:869][276]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_56
+[2026.04.29-17.50.40:911][277]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_57
+[2026.04.29-17.50.40:945][278]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_58
+[2026.04.29-17.50.40:985][279]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_59
+[2026.04.29-17.50.41:017][280]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_60
+[2026.04.29-17.50.41:053][281]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_61
+[2026.04.29-17.50.41:088][282]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_62
+[2026.04.29-17.50.41:118][283]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_63
+[2026.04.29-17.50.41:148][284]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_64
+[2026.04.29-17.50.41:181][285]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_65
+[2026.04.29-17.50.41:210][286]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_66
+[2026.04.29-17.50.41:242][287]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_67
+[2026.04.29-17.50.41:313][290]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_68
+[2026.04.29-17.50.41:698][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.04.29-17.50.41:700][314]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.04.29-17.50.41:706][314]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AssetsvilleTown/Meshes/Characters/SK_citizen_female_11.SK_citizen_female_11
+[2026.04.29-17.50.41:706][314]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/AssetsvilleTown/Meshes/Characters/SK_citizen_female_11.SK_citizen_female_11
+[2026.04.29-17.50.41:708][314]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AssetsvilleTown/Meshes/Characters/SK_citizen_female_11.SK_citizen_female_11 as actor: SkeletalMeshActor /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives:PersistentLevel.SkeletalMeshActor_1
+[2026.04.29-17.50.41:709][314]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/AssetsvilleTown/Meshes/Characters/SK_citizen_female_11.SK_citizen_female_11 as actor: SkeletalMeshActor /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives:PersistentLevel.SkeletalMeshActor_1
+[2026.04.29-17.50.48:257][708]Cmd: TRANSACTION UNDO
+[2026.04.29-17.50.48:257][708]LogEditorTransaction: Undo Scale Elements
+[2026.04.29-17.51.27:449][568]Cmd: TRANSACTION UNDO
+[2026.04.29-17.51.27:449][568]LogEditorTransaction: Undo Move Elements
+[2026.04.29-17.51.27:479][568]Cmd: EDIT CUT
+[2026.04.29-17.51.27:481][568]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-17.51.27:501][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.04.29-17.51.27:503][568]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.04.29-17.51.29:069][665]Cmd: TRANSACTION UNDO
+[2026.04.29-17.51.29:069][665]LogEditorTransaction: Undo Cut
+[2026.04.29-17.51.29:708][698]Cmd: TRANSACTION UNDO
+[2026.04.29-17.51.29:708][698]LogEditorTransaction: Undo Move Elements
+[2026.04.29-17.51.39:877][345]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.04.29-17.51.39:877][345]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.04.29-17.51.39:877][345]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives:PersistentLevel.StaticMeshActor_4
+[2026.04.29-17.51.39:878][345]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives:PersistentLevel.StaticMeshActor_4
+[2026.04.29-17.51.40:525][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.04.29-17.51.40:527][374]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.04.29-17.51.40:534][374]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.04.29-17.51.40:534][374]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.04.29-17.51.40:535][374]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives:PersistentLevel.StaticMeshActor_5
+[2026.04.29-17.51.40:535][374]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives:PersistentLevel.StaticMeshActor_5
+[2026.04.29-17.52.15:324][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-17.52.15:420][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.04.29-17.52.15:437][553]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/InteractiveNarratives
+[2026.04.29-17.52.15:437][553]LogSavePackage: Moving '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/InteractiveNarratives9A39C21B4077E9BEBA59A0B2B0C8FAB7.tmp' to '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/InteractiveNarratives.umap'
+[2026.04.29-17.52.15:447][553]LogFileHelpers: Saving map 'InteractiveNarratives' took 0.063
+[2026.04.29-17.52.15:456][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.965 ms (total: 554.464 ms)
+[2026.04.29-17.52.15:504][553]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-17.52.15:504][553]LogContentValidation: Enabled validators:
+[2026.04.29-17.52.15:504][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-17.52.15:504][553]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-17.52.15:504][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-17.52.15:504][553]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-17.52.15:504][553]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-17.52.15:504][553]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-17.52.15:504][553]AssetCheck: /Game/InteractiveNarrative/InteractiveNarratives Validating asset
+[2026.04.29-17.52.19:767][806]Cmd: EDIT COPY
+[2026.04.29-17.52.20:081][817]Cmd: EDIT PASTE
+[2026.04.29-17.52.29:250][437]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 657.401855
+[2026.04.29-17.52.29:430][449]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-17.52.29:431][449]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 657.569397, Update Interval: 349.168976
+[2026.04.29-17.52.41:322][241]Cmd: EDIT COPY
+[2026.04.29-17.52.41:525][256]Cmd: EDIT PASTE
+[2026.04.29-17.52.52:660][955]Cmd: TRANSACTION UNDO
+[2026.04.29-17.52.52:660][955]LogEditorTransaction: Undo Scale Elements
+[2026.04.29-17.53.21:456][844]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.29-17.53.21:463][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-17.53.21:488][844]LogPlayLevel: Creating play world package: /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives
+[2026.04.29-17.53.21:489][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002048s)
+[2026.04.29-17.53.21:489][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives to /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives.InteractiveNarratives (0.002103s)
+[2026.04.29-17.53.21:511][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.04.29-17.53.21:513][844]LogChaosDD: Creating Chaos Debug Draw Scene for world InteractiveNarratives
+[2026.04.29-17.53.21:516][844]LogPlayLevel: PIE: World Init took: (0.001991s)
+[2026.04.29-17.53.21:516][844]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.04.29-17.53.21:516][844]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-17.53.21:516][844]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-17.53.21:516][844]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-17.53.21:516][844]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-17.53.21:516][844]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-17.53.21:516][844]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-17.53.21:516][844]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-17.53.21:516][844]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-17.53.21:516][844]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-17.53.21:516][844]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-17.53.21:516][844]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-17.53.21:521][844]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-17.53.21:561][844]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova Pro)
+[2026.04.29-17.53.21:561][844]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-17.53.21:561][844]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-17.53.21:561][844]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-17.53.21:562][844]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.04.29-17.53.21:562][844]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.04.29-17.53.21:565][844]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.04.29-17.53.21:565][844]LogInit: FAudioDevice initialized with ID 4.
+[2026.04.29-17.53.21:565][844]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.04.29-17.53.21:565][844]LogAudio: Display: Audio Device (ID: 4) registered with world 'InteractiveNarratives'.
+[2026.04.29-17.53.21:565][844]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.04.29-17.53.21:568][844]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.29-17.53.21:570][844]LogWorld: Bringing World /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives.InteractiveNarratives up for play (max tick rate 0) at 2026.04.29-18.53.21
+[2026.04.29-17.53.21:570][844]LogWorld: Bringing up level for play took: 0.001700
+[2026.04.29-17.53.21:574][844]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2026.04.29-17.53.21:581][844]PIE: Server logged in
+[2026.04.29-17.53.21:583][844]PIE: Play in editor total start time 0.119 seconds.
+[2026.04.29-17.53.21:640][845]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.29-17.53.24:018][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-17.53.24:018][  7]LogWorld: BeginTearingDown for /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives
+[2026.04.29-17.53.24:019][  7]LogWorld: UWorld::CleanupWorld for InteractiveNarratives, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-17.53.24:019][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.53.24:020][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-17.53.24:023][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.53.24:043][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-17.53.24:043][  7]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.04.29-17.53.24:043][  7]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.04.29-17.53.24:045][  7]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.04.29-17.53.24:054][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.29-17.53.24:148][  8]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2026.04.29-17.53.28:525][309]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.29-17.53.28:534][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-17.53.28:534][309]LogPlayLevel: Creating play world package: /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives
+[2026.04.29-17.53.28:538][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003578s)
+[2026.04.29-17.53.28:538][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives to /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives.InteractiveNarratives (0.003630s)
+[2026.04.29-17.53.28:559][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.04.29-17.53.28:561][309]LogChaosDD: Creating Chaos Debug Draw Scene for world InteractiveNarratives
+[2026.04.29-17.53.28:563][309]LogPlayLevel: PIE: World Init took: (0.001980s)
+[2026.04.29-17.53.28:565][309]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.04.29-17.53.28:565][309]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-17.53.28:565][309]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-17.53.28:565][309]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-17.53.28:565][309]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-17.53.28:565][309]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-17.53.28:565][309]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-17.53.28:565][309]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-17.53.28:565][309]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-17.53.28:565][309]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-17.53.28:565][309]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-17.53.28:565][309]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-17.53.28:568][309]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-17.53.28:610][309]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova Pro)
+[2026.04.29-17.53.28:610][309]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-17.53.28:611][309]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-17.53.28:611][309]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-17.53.28:611][309]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.04.29-17.53.28:611][309]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.04.29-17.53.28:615][309]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.04.29-17.53.28:615][309]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.04.29-17.53.28:615][309]LogInit: FAudioDevice initialized with ID 5.
+[2026.04.29-17.53.28:615][309]LogAudio: Display: Audio Device (ID: 5) registered with world 'InteractiveNarratives'.
+[2026.04.29-17.53.28:615][309]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.04.29-17.53.28:619][309]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.29-17.53.28:620][309]LogWorld: Bringing World /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives.InteractiveNarratives up for play (max tick rate 0) at 2026.04.29-18.53.28
+[2026.04.29-17.53.28:620][309]LogWorld: Bringing up level for play took: 0.001426
+[2026.04.29-17.53.28:623][309]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2026.04.29-17.53.28:629][309]PIE: Server logged in
+[2026.04.29-17.53.28:631][309]PIE: Play in editor total start time 0.098 seconds.
+[2026.04.29-17.53.28:685][310]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.29-17.53.32:308][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-17.53.32:308][573]LogWorld: BeginTearingDown for /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives
+[2026.04.29-17.53.32:308][573]LogWorld: UWorld::CleanupWorld for InteractiveNarratives, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-17.53.32:309][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.53.32:310][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-17.53.32:313][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.53.32:331][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-17.53.32:331][573]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.04.29-17.53.32:331][573]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.04.29-17.53.32:334][573]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.04.29-17.53.32:340][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.04.29-17.53.32:427][574]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2026.04.29-17.53.38:950][994]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.04.29-17.53.38:950][994]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.04.29-17.53.38:950][994]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives:PersistentLevel.StaticMeshActor_8
+[2026.04.29-17.53.38:950][994]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives:PersistentLevel.StaticMeshActor_8
+[2026.04.29-17.53.39:457][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.04.29-17.53.39:458][ 21]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.04.29-17.53.39:464][ 21]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.04.29-17.53.39:464][ 21]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.04.29-17.53.39:466][ 21]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives:PersistentLevel.StaticMeshActor_9
+[2026.04.29-17.53.39:466][ 21]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives:PersistentLevel.StaticMeshActor_9
+[2026.04.29-17.54.46:453][323]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/InteractiveNarrative/Assets/Materials/Floor.Floor
+[2026.04.29-17.54.46:454][323]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_69
+[2026.04.29-17.54.52:498][653]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.29-17.54.54:643][790]LogSlate: Window 'Floor' being destroyed
+[2026.04.29-17.54.54:667][790]LogSlate: Window 'Floor' being destroyed
+[2026.04.29-17.54.54:706][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.04.29-17.54.54:761][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.04.29-17.54.54:818][790]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-17.54.54:818][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.54.54:851][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.04.29-17.55.06:308][504]Cmd: EDIT COPY
+[2026.04.29-17.55.06:477][515]Cmd: EDIT PASTE
+[2026.04.29-17.56.09:875][606]Cmd: EDIT COPY
+[2026.04.29-17.56.10:123][622]Cmd: EDIT PASTE
+[2026.04.29-17.56.54:720][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-17.56.54:824][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.04.29-17.56.54:843][574]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/InteractiveNarratives
+[2026.04.29-17.56.54:844][574]LogSavePackage: Moving '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/InteractiveNarrativesC5A96406402E4BA62AB9DC9E725D3FA5.tmp' to '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/InteractiveNarratives.umap'
+[2026.04.29-17.56.54:853][574]LogFileHelpers: Saving map 'InteractiveNarratives' took 0.073
+[2026.04.29-17.56.54:861][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.080 ms (total: 694.545 ms)
+[2026.04.29-17.56.54:893][574]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-17.56.54:893][574]LogContentValidation: Enabled validators:
+[2026.04.29-17.56.54:893][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-17.56.54:893][574]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-17.56.54:893][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-17.56.54:893][574]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-17.56.54:893][574]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-17.56.54:893][574]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-17.56.54:893][574]AssetCheck: /Game/InteractiveNarrative/InteractiveNarratives Validating asset
+[2026.04.29-17.57.24:258][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-17.57.24:344][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.04.29-17.57.24:361][130]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/InteractiveNarratives
+[2026.04.29-17.57.24:363][130]LogSavePackage: Moving '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/InteractiveNarratives3BDE1EFD42B6E7859307209E4B807100.tmp' to '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/InteractiveNarratives.umap'
+[2026.04.29-17.57.24:383][130]LogFileHelpers: Saving map 'InteractiveNarratives' took 0.079
+[2026.04.29-17.57.24:393][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.718 ms (total: 829.263 ms)
+[2026.04.29-17.57.24:436][130]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-17.57.24:436][130]LogContentValidation: Enabled validators:
+[2026.04.29-17.57.24:436][130]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-17.57.24:436][130]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-17.57.24:436][130]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-17.57.24:436][130]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-17.57.24:436][130]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-17.57.24:436][130]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-17.57.24:436][130]AssetCheck: /Game/InteractiveNarrative/InteractiveNarratives Validating asset
+[2026.04.29-17.57.33:258][732]Cmd: TRANSACTION UNDO
+[2026.04.29-17.57.33:258][732]LogEditorTransaction: Undo Rotate Elements
+[2026.04.29-17.57.40:844][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-17.57.40:939][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.04.29-17.57.40:955][213]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/InteractiveNarratives
+[2026.04.29-17.57.40:957][213]LogSavePackage: Moving '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/InteractiveNarrativesE9BD5F49476C4297124D819651A44B8F.tmp' to '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/InteractiveNarratives.umap'
+[2026.04.29-17.57.40:967][213]LogFileHelpers: Saving map 'InteractiveNarratives' took 0.068
+[2026.04.29-17.57.40:983][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.783 ms (total: 969.046 ms)
+[2026.04.29-17.57.41:029][213]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-17.57.41:029][213]LogContentValidation: Enabled validators:
+[2026.04.29-17.57.41:029][213]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-17.57.41:029][213]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-17.57.41:029][213]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-17.57.41:029][213]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-17.57.41:029][213]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-17.57.41:029][213]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-17.57.41:029][213]AssetCheck: /Game/InteractiveNarrative/InteractiveNarratives Validating asset
+[2026.04.29-17.57.54:512][918]Cmd: EDIT COPY
+[2026.04.29-17.57.54:780][936]Cmd: EDIT PASTE
+[2026.04.29-17.58.18:321][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-17.58.18:416][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.04.29-17.58.18:433][498]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/InteractiveNarratives
+[2026.04.29-17.58.18:434][498]LogSavePackage: Moving '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/InteractiveNarrativesDEF3C8E74AFC9BF301C821BAA9F422AA.tmp' to '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/InteractiveNarratives.umap'
+[2026.04.29-17.58.18:464][498]LogFileHelpers: Saving map 'InteractiveNarratives' took 0.085
+[2026.04.29-17.58.18:482][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.456 ms (total: 1.12 sec)
+[2026.04.29-17.58.18:531][498]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-17.58.18:531][498]LogContentValidation: Enabled validators:
+[2026.04.29-17.58.18:531][498]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-17.58.18:531][498]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-17.58.18:531][498]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-17.58.18:531][498]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-17.58.18:532][498]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-17.58.18:532][498]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-17.58.18:532][498]AssetCheck: /Game/InteractiveNarrative/InteractiveNarratives Validating asset
+[2026.04.29-17.58.25:082][940]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1013.233032
+[2026.04.29-17.58.25:753][943]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-17.58.25:753][943]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1013.893982, Update Interval: 305.348663
+[2026.04.29-17.58.27:207][ 44]Cmd: EDIT COPY
+[2026.04.29-17.58.27:410][ 58]Cmd: EDIT PASTE
+[2026.04.29-17.58.59:774][242]Cmd: EDIT COPY
+[2026.04.29-17.58.59:999][258]Cmd: EDIT PASTE
+[2026.04.29-17.59.14:055][169]Cmd: EDIT COPY
+[2026.04.29-17.59.14:283][184]Cmd: EDIT PASTE
+[2026.04.29-18.00.31:282][278]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.29-18.00.31:290][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-18.00.31:290][278]LogPlayLevel: Creating play world package: /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives
+[2026.04.29-18.00.31:295][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005492s)
+[2026.04.29-18.00.31:295][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives to /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives.InteractiveNarratives (0.005551s)
+[2026.04.29-18.00.31:317][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.04.29-18.00.31:321][278]LogChaosDD: Creating Chaos Debug Draw Scene for world InteractiveNarratives
+[2026.04.29-18.00.31:322][278]LogPlayLevel: PIE: World Init took: (0.001856s)
+[2026.04.29-18.00.31:323][278]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.04.29-18.00.31:323][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-18.00.31:323][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-18.00.31:323][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-18.00.31:323][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-18.00.31:323][278]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-18.00.31:323][278]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-18.00.31:323][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-18.00.31:323][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-18.00.31:323][278]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-18.00.31:323][278]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-18.00.31:323][278]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-18.00.31:326][278]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-18.00.31:365][278]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova Pro)
+[2026.04.29-18.00.31:365][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-18.00.31:365][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-18.00.31:365][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-18.00.31:366][278]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.04.29-18.00.31:366][278]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.04.29-18.00.31:369][278]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.04.29-18.00.31:369][278]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.04.29-18.00.31:369][278]LogInit: FAudioDevice initialized with ID 6.
+[2026.04.29-18.00.31:369][278]LogAudio: Display: Audio Device (ID: 6) registered with world 'InteractiveNarratives'.
+[2026.04.29-18.00.31:369][278]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.04.29-18.00.31:372][278]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.29-18.00.31:375][278]LogWorld: Bringing World /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives.InteractiveNarratives up for play (max tick rate 0) at 2026.04.29-19.00.31
+[2026.04.29-18.00.31:375][278]LogWorld: Bringing up level for play took: 0.001857
+[2026.04.29-18.00.31:377][278]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2026.04.29-18.00.31:384][278]PIE: Server logged in
+[2026.04.29-18.00.31:387][278]PIE: Play in editor total start time 0.098 seconds.
+[2026.04.29-18.00.31:444][279]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.29-18.00.34:958][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-18.00.34:958][529]LogWorld: BeginTearingDown for /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives
+[2026.04.29-18.00.34:958][529]LogWorld: UWorld::CleanupWorld for InteractiveNarratives, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.00.34:959][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.00.34:961][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-18.00.34:965][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.00.34:984][529]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.29-18.00.34:984][529]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.04.29-18.00.34:985][529]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.04.29-18.00.34:987][529]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.04.29-18.00.34:992][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-18.00.34:995][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.04.29-18.00.35:085][530]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2026.04.29-18.00.46:024][288]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.29-18.00.46:032][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-18.00.46:032][288]LogPlayLevel: Creating play world package: /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives
+[2026.04.29-18.00.46:036][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004162s)
+[2026.04.29-18.00.46:036][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives to /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives.InteractiveNarratives (0.004216s)
+[2026.04.29-18.00.46:059][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.04.29-18.00.46:060][288]LogChaosDD: Creating Chaos Debug Draw Scene for world InteractiveNarratives
+[2026.04.29-18.00.46:062][288]LogPlayLevel: PIE: World Init took: (0.001956s)
+[2026.04.29-18.00.46:063][288]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.04.29-18.00.46:063][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-18.00.46:063][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-18.00.46:063][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-18.00.46:063][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-18.00.46:063][288]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-18.00.46:063][288]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-18.00.46:063][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-18.00.46:063][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-18.00.46:063][288]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-18.00.46:063][288]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-18.00.46:063][288]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-18.00.46:066][288]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-18.00.46:104][288]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova Pro)
+[2026.04.29-18.00.46:105][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-18.00.46:105][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-18.00.46:105][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-18.00.46:105][288]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.04.29-18.00.46:105][288]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.04.29-18.00.46:109][288]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.04.29-18.00.46:109][288]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.04.29-18.00.46:109][288]LogInit: FAudioDevice initialized with ID 7.
+[2026.04.29-18.00.46:109][288]LogAudio: Display: Audio Device (ID: 7) registered with world 'InteractiveNarratives'.
+[2026.04.29-18.00.46:109][288]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.04.29-18.00.46:113][288]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.29-18.00.46:114][288]LogWorld: Bringing World /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives.InteractiveNarratives up for play (max tick rate 0) at 2026.04.29-19.00.46
+[2026.04.29-18.00.46:115][288]LogWorld: Bringing up level for play took: 0.001847
+[2026.04.29-18.00.46:117][288]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2026.04.29-18.00.46:125][288]PIE: Server logged in
+[2026.04.29-18.00.46:127][288]PIE: Play in editor total start time 0.095 seconds.
+[2026.04.29-18.00.46:186][289]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.29-18.00.49:058][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-18.00.49:058][495]LogWorld: BeginTearingDown for /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives
+[2026.04.29-18.00.49:058][495]LogWorld: UWorld::CleanupWorld for InteractiveNarratives, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.00.49:059][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.00.49:060][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-18.00.49:063][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.00.49:081][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-18.00.49:082][495]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.04.29-18.00.49:082][495]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.04.29-18.00.49:084][495]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.04.29-18.00.49:092][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.04.29-18.00.49:174][496]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2026.04.29-18.00.52:653][723]Cmd: DELETE
+[2026.04.29-18.00.52:653][723]Cmd: ACTOR DELETE
+[2026.04.29-18.00.52:655][723]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-18.00.52:680][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.04.29-18.00.52:682][723]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2026.04.29-18.02.04:298][172]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.29-18.02.04:306][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-18.02.04:347][172]LogPlayLevel: Creating play world package: /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives
+[2026.04.29-18.02.04:354][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006265s)
+[2026.04.29-18.02.04:354][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives to /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives.InteractiveNarratives (0.006308s)
+[2026.04.29-18.02.04:374][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.04.29-18.02.04:376][172]LogChaosDD: Creating Chaos Debug Draw Scene for world InteractiveNarratives
+[2026.04.29-18.02.04:378][172]LogPlayLevel: PIE: World Init took: (0.001604s)
+[2026.04.29-18.02.04:378][172]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.04.29-18.02.04:379][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-18.02.04:379][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-18.02.04:379][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-18.02.04:379][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-18.02.04:379][172]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-18.02.04:379][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-18.02.04:379][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-18.02.04:379][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-18.02.04:379][172]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-18.02.04:379][172]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-18.02.04:379][172]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-18.02.04:382][172]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-18.02.04:422][172]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova Pro)
+[2026.04.29-18.02.04:422][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-18.02.04:422][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-18.02.04:422][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-18.02.04:423][172]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.04.29-18.02.04:423][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.04.29-18.02.04:426][172]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.04.29-18.02.04:426][172]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.04.29-18.02.04:426][172]LogInit: FAudioDevice initialized with ID 8.
+[2026.04.29-18.02.04:426][172]LogAudio: Display: Audio Device (ID: 8) registered with world 'InteractiveNarratives'.
+[2026.04.29-18.02.04:426][172]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.04.29-18.02.04:430][172]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.29-18.02.04:433][172]LogWorld: Bringing World /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives.InteractiveNarratives up for play (max tick rate 0) at 2026.04.29-19.02.04
+[2026.04.29-18.02.04:433][172]LogWorld: Bringing up level for play took: 0.002816
+[2026.04.29-18.02.04:436][172]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2026.04.29-18.02.04:442][172]PIE: Server logged in
+[2026.04.29-18.02.04:445][172]PIE: Play in editor total start time 0.139 seconds.
+[2026.04.29-18.02.04:499][173]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.29-18.02.07:258][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-18.02.07:258][364]LogWorld: BeginTearingDown for /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives
+[2026.04.29-18.02.07:258][364]LogWorld: UWorld::CleanupWorld for InteractiveNarratives, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.02.07:258][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.02.07:260][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-18.02.07:263][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.02.07:282][364]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.29-18.02.07:282][364]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.04.29-18.02.07:282][364]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.04.29-18.02.07:284][364]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.04.29-18.02.07:289][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-18.02.07:292][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.04.29-18.02.07:381][365]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2026.04.29-18.02.48:664][ 55]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.29-18.02.48:671][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-18.02.48:697][ 55]LogPlayLevel: Creating play world package: /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives
+[2026.04.29-18.02.48:702][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005551s)
+[2026.04.29-18.02.48:702][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives to /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives.InteractiveNarratives (0.005590s)
+[2026.04.29-18.02.48:722][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.04.29-18.02.48:724][ 55]LogChaosDD: Creating Chaos Debug Draw Scene for world InteractiveNarratives
+[2026.04.29-18.02.48:726][ 55]LogPlayLevel: PIE: World Init took: (0.001811s)
+[2026.04.29-18.02.48:727][ 55]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.04.29-18.02.48:727][ 55]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-18.02.48:727][ 55]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-18.02.48:727][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-18.02.48:727][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-18.02.48:727][ 55]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-18.02.48:727][ 55]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-18.02.48:727][ 55]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-18.02.48:727][ 55]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-18.02.48:727][ 55]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-18.02.48:727][ 55]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-18.02.48:727][ 55]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-18.02.48:730][ 55]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-18.02.48:770][ 55]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova Pro)
+[2026.04.29-18.02.48:771][ 55]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-18.02.48:771][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-18.02.48:771][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-18.02.48:772][ 55]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.04.29-18.02.48:772][ 55]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.04.29-18.02.48:775][ 55]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.04.29-18.02.48:775][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.04.29-18.02.48:775][ 55]LogInit: FAudioDevice initialized with ID 9.
+[2026.04.29-18.02.48:775][ 55]LogAudio: Display: Audio Device (ID: 9) registered with world 'InteractiveNarratives'.
+[2026.04.29-18.02.48:775][ 55]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.04.29-18.02.48:778][ 55]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.29-18.02.48:782][ 55]LogWorld: Bringing World /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives.InteractiveNarratives up for play (max tick rate 0) at 2026.04.29-19.02.48
+[2026.04.29-18.02.48:782][ 55]LogWorld: Bringing up level for play took: 0.002915
+[2026.04.29-18.02.48:785][ 55]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2026.04.29-18.02.48:790][ 55]PIE: Server logged in
+[2026.04.29-18.02.48:793][ 55]PIE: Play in editor total start time 0.121 seconds.
+[2026.04.29-18.02.48:851][ 56]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.29-18.03.05:757][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-18.03.05:757][255]LogWorld: BeginTearingDown for /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives
+[2026.04.29-18.03.05:757][255]LogWorld: UWorld::CleanupWorld for InteractiveNarratives, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.03.05:757][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.03.05:760][255]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-18.03.05:763][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.03.05:784][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-18.03.05:784][255]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.04.29-18.03.05:784][255]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.04.29-18.03.05:786][255]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.04.29-18.03.05:794][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.04.29-18.03.05:881][256]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2026.04.29-18.03.40:157][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-18.03.40:232][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.04.29-18.03.40:255][427]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/InteractiveNarratives
+[2026.04.29-18.03.40:256][427]LogSavePackage: Moving '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/InteractiveNarratives2D52E6CE442A0BFC57EB9FBCE7028888.tmp' to '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/InteractiveNarratives.umap'
+[2026.04.29-18.03.40:264][427]LogFileHelpers: Saving map 'InteractiveNarratives' took 0.069
+[2026.04.29-18.03.40:273][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.552 ms (total: 1.24 sec)
+[2026.04.29-18.03.40:308][427]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-18.03.40:308][427]LogContentValidation: Enabled validators:
+[2026.04.29-18.03.40:308][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-18.03.40:308][427]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-18.03.40:308][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-18.03.40:308][427]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-18.03.40:308][427]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-18.03.40:308][427]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-18.03.40:308][427]AssetCheck: /Game/InteractiveNarrative/InteractiveNarratives Validating asset
+[2026.04.29-18.03.44:305][581]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1332.448486
+[2026.04.29-18.03.44:447][591]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-18.03.44:447][591]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1332.576050, Update Interval: 311.517700
+[2026.04.29-18.04.06:296][ 41]Cmd: EDIT COPY
+[2026.04.29-18.04.06:777][ 76]Cmd: EDIT PASTE
+[2026.04.29-18.04.12:416][468]Cmd: EDIT PASTE
+[2026.04.29-18.04.32:068][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-18.04.32:158][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.04.29-18.04.32:184][798]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/InteractiveNarratives
+[2026.04.29-18.04.32:185][798]LogSavePackage: Moving '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/InteractiveNarratives4717FCA240E3125D979BEEAF7E09E9BA.tmp' to '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/InteractiveNarratives.umap'
+[2026.04.29-18.04.32:194][798]LogFileHelpers: Saving map 'InteractiveNarratives' took 0.074
+[2026.04.29-18.04.32:204][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.109 ms (total: 1.38 sec)
+[2026.04.29-18.04.32:249][798]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-18.04.32:249][798]LogContentValidation: Enabled validators:
+[2026.04.29-18.04.32:249][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-18.04.32:249][798]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-18.04.32:249][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-18.04.32:249][798]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-18.04.32:249][798]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-18.04.32:249][798]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-18.04.32:249][798]AssetCheck: /Game/InteractiveNarrative/InteractiveNarratives Validating asset
+[2026.04.29-18.04.59:238][400]Cmd: EDIT COPY
+[2026.04.29-18.04.59:441][412]Cmd: EDIT PASTE
+[2026.04.29-18.05.11:508][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-18.05.11:600][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.04.29-18.05.11:626][234]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/InteractiveNarratives
+[2026.04.29-18.05.11:627][234]LogSavePackage: Moving '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/InteractiveNarrativesCABBBA174AB1A07E3C4308A346A4FACA.tmp' to '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/InteractiveNarratives.umap'
+[2026.04.29-18.05.11:636][234]LogFileHelpers: Saving map 'InteractiveNarratives' took 0.074
+[2026.04.29-18.05.11:649][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.829 ms (total: 1.52 sec)
+[2026.04.29-18.05.11:687][234]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-18.05.11:687][234]LogContentValidation: Enabled validators:
+[2026.04.29-18.05.11:687][234]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-18.05.11:687][234]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-18.05.11:687][234]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-18.05.11:687][234]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-18.05.11:687][234]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-18.05.11:687][234]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-18.05.11:688][234]AssetCheck: /Game/InteractiveNarrative/InteractiveNarratives Validating asset
+[2026.04.29-18.06.07:933][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-18.06.08:031][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.04.29-18.06.08:058][903]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/InteractiveNarratives
+[2026.04.29-18.06.08:059][903]LogSavePackage: Moving '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/InteractiveNarrativesC21039584E4BEE0EF7FFFD9AB0EEE538.tmp' to '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/InteractiveNarratives.umap'
+[2026.04.29-18.06.08:069][903]LogFileHelpers: Saving map 'InteractiveNarratives' took 0.077
+[2026.04.29-18.06.08:087][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.971 ms (total: 1.67 sec)
+[2026.04.29-18.06.08:140][903]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-18.06.08:140][903]LogContentValidation: Enabled validators:
+[2026.04.29-18.06.08:140][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-18.06.08:140][903]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-18.06.08:140][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-18.06.08:140][903]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-18.06.08:140][903]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-18.06.08:140][903]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-18.06.08:140][903]AssetCheck: /Game/InteractiveNarrative/InteractiveNarratives Validating asset
+[2026.04.29-18.06.11:973][154]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-18.06.12:066][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.04.29-18.06.12:090][154]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/InteractiveNarratives
+[2026.04.29-18.06.12:092][154]LogSavePackage: Moving '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/InteractiveNarrativesB34312124CD68A665D548A832AD7E3BB.tmp' to '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/InteractiveNarratives.umap'
+[2026.04.29-18.06.12:102][154]LogFileHelpers: Saving map 'InteractiveNarratives' took 0.084
+[2026.04.29-18.06.12:117][154]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.413 ms (total: 1.82 sec)
+[2026.04.29-18.06.12:158][154]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-18.06.12:158][154]LogContentValidation: Enabled validators:
+[2026.04.29-18.06.12:158][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-18.06.12:158][154]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-18.06.12:158][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-18.06.12:158][154]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-18.06.12:158][154]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-18.06.12:158][154]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-18.06.12:158][154]AssetCheck: /Game/InteractiveNarrative/InteractiveNarratives Validating asset
+[2026.04.29-18.06.17:322][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.04.29-18.06.18:136][495]LogSlate: Window 'Save Content' being destroyed
+[2026.04.29-18.06.18:148][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-18.06.18:194][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InteractiveNarrative/Assets/Materials/Floor] ([1] browsable assets)...
+[2026.04.29-18.06.18:248][495]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/InteractiveNarrative/Assets/Materials/Floor.Floor]
+[2026.04.29-18.06.18:248][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/InteractiveNarrative/Assets/Materials/Floor]
+[2026.04.29-18.06.18:256][495]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/Assets/Materials/Floor
+[2026.04.29-18.06.18:256][495]LogSavePackage: Moving '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/Floor36B7EF1D476B9410EAF7C68AD08C2A98.tmp' to '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/Assets/Materials/Floor.uasset'
+[2026.04.29-18.06.18:257][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InteractiveNarrative/Assets/Materials/Forest] ([1] browsable assets)...
+[2026.04.29-18.06.18:267][495]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/InteractiveNarrative/Assets/Materials/Forest.Forest]
+[2026.04.29-18.06.18:267][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/InteractiveNarrative/Assets/Materials/Forest]
+[2026.04.29-18.06.18:275][495]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/Assets/Materials/Forest
+[2026.04.29-18.06.18:275][495]LogSavePackage: Moving '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/Forest1B03274B4FC9A39603A2678CDE4D2CDC.tmp' to '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/Assets/Materials/Forest.uasset'
+[2026.04.29-18.06.18:276][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InteractiveNarrative/Assets/Materials/Important] ([1] browsable assets)...
+[2026.04.29-18.06.18:284][495]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/InteractiveNarrative/Assets/Materials/Important.Important]
+[2026.04.29-18.06.18:285][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/InteractiveNarrative/Assets/Materials/Important]
+[2026.04.29-18.06.18:293][495]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/Assets/Materials/Important
+[2026.04.29-18.06.18:293][495]LogSavePackage: Moving '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/Important561A637B4F789F8D665FF983898D6414.tmp' to '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/Assets/Materials/Important.uasset'
+[2026.04.29-18.06.18:294][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InteractiveNarrative/Assets/Materials/Road] ([1] browsable assets)...
+[2026.04.29-18.06.18:302][495]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/InteractiveNarrative/Assets/Materials/Road.Road]
+[2026.04.29-18.06.18:302][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/InteractiveNarrative/Assets/Materials/Road]
+[2026.04.29-18.06.18:311][495]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/Assets/Materials/Road
+[2026.04.29-18.06.18:311][495]LogSavePackage: Moving '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/RoadD386FAEC45A4E939C5BFE593DB7DAA55.tmp' to '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/Assets/Materials/Road.uasset'
+[2026.04.29-18.06.18:312][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InteractiveNarrative/Assets/Materials/Test] ([1] browsable assets)...
+[2026.04.29-18.06.18:321][495]OBJ SavePackage:     Rendered thumbnail for [Material /Game/InteractiveNarrative/Assets/Materials/Test.Test]
+[2026.04.29-18.06.18:321][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/InteractiveNarrative/Assets/Materials/Test]
+[2026.04.29-18.06.18:329][495]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/Assets/Materials/Test
+[2026.04.29-18.06.18:329][495]LogSavePackage: Moving '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/TestA28DFCB34DC92FA6C5ADD484FE3736D6.tmp' to '../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/Assets/Materials/Test.uasset'
+[2026.04.29-18.06.18:348][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 199.593 ms (total: 2.02 sec)
+[2026.04.29-18.06.18:389][495]LogContentValidation: Display: Starting to validate 5 assets
+[2026.04.29-18.06.18:389][495]LogContentValidation: Enabled validators:
+[2026.04.29-18.06.18:389][495]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-18.06.18:389][495]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-18.06.18:389][495]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-18.06.18:389][495]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-18.06.18:389][495]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-18.06.18:389][495]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-18.06.18:389][495]AssetCheck: /Game/InteractiveNarrative/Assets/Materials/Floor Validating asset
+[2026.04.29-18.06.18:389][495]AssetCheck: /Game/InteractiveNarrative/Assets/Materials/Forest Validating asset
+[2026.04.29-18.06.18:389][495]AssetCheck: /Game/InteractiveNarrative/Assets/Materials/Important Validating asset
+[2026.04.29-18.06.18:389][495]AssetCheck: /Game/InteractiveNarrative/Assets/Materials/Road Validating asset
+[2026.04.29-18.06.18:389][495]AssetCheck: /Game/InteractiveNarrative/Assets/Materials/Test Validating asset
+[2026.04.29-18.06.18:406][495]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.29-18.06.19:094][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.04.29-18.06.19:134][539]LogStall: Shutdown...
+[2026.04.29-18.06.19:134][539]LogStall: Shutdown complete.
+[2026.04.29-18.06.19:184][539]LogSlate: Window 'InteractiveNarrative - Unreal Editor' being destroyed
+[2026.04.29-18.06.19:298][539]Cmd: QUIT_EDITOR
+[2026.04.29-18.06.19:298][540]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.04.29-18.06.19:304][540]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.04.29-18.06.19:316][540]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.04.29-18.06.19:316][540]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.04.29-18.06.19:318][540]LogWorld: UWorld::CleanupWorld for InteractiveNarratives, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:318][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:329][540]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.04.29-18.06.19:329][540]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.04.29-18.06.19:329][540]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.04.29-18.06.19:337][540]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:337][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:337][540]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:337][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:338][540]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:338][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:338][540]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:338][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:340][540]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:340][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:340][540]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:340][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:341][540]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:341][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:341][540]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:341][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:342][540]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:342][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:342][540]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:342][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:342][540]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:343][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:343][540]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:343][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:344][540]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:344][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:344][540]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:344][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:344][540]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:344][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:345][540]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:345][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:345][540]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:345][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:345][540]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:345][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:346][540]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:346][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:346][540]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:346][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:346][540]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:346][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:346][540]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:346][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:347][540]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:347][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:348][540]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:348][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:348][540]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:348][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:348][540]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:348][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:349][540]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:349][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:349][540]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:349][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:349][540]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:349][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:349][540]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:351][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:351][540]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:351][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:351][540]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:351][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:351][540]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:352][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:352][540]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:352][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:352][540]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:352][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:352][540]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:352][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:352][540]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:353][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:353][540]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:353][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:353][540]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:353][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:353][540]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:354][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:354][540]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:354][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:354][540]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:354][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:356][540]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:356][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:356][540]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:356][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:356][540]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:356][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:357][540]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:357][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:357][540]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:357][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:358][540]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:358][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:358][540]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:358][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:358][540]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:358][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:358][540]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:358][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:359][540]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:359][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:360][540]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:360][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:360][540]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:360][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:360][540]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:360][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:361][540]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:361][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:361][540]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:361][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:361][540]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:361][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:362][540]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:362][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:362][540]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:362][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:362][540]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:362][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:362][540]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:362][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:362][540]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:362][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:363][540]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-18.06.19:363][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-18.06.19:363][540]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.04.29-18.06.19:363][540]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.04.29-18.06.19:371][540]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.UnrealEngine.Release SessionId={BA4286D4-4021-3E6F-2109-F88C8EAA7C1B}
+[2026.04.29-18.06.19:373][540]LogAnalytics: Display: [UEEditor.UnrealEngine.Release] AnalyticsET::EndSession
+[2026.04.29-18.06.20:221][540]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.04.29-18.06.20:221][540]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.04.29-18.06.20:221][540]LogAudio: Display: Audio Device unregistered from world 'InteractiveNarratives'.
+[2026.04.29-18.06.20:221][540]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.04.29-18.06.20:221][540]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.04.29-18.06.20:223][540]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.04.29-18.06.20:233][540]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.04.29-18.06.20:233][540]LogAudio: Display: Audio Device Manager Shutdown
+[2026.04.29-18.06.20:237][540]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.04.29-18.06.20:239][540]LogExit: Preparing to exit.
+[2026.04.29-18.06.20:304][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.04.29-18.06.20:558][540]LogEditorDataStorage: Deinitializing
+[2026.04.29-18.06.20:711][540]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.04.29-18.06.20:727][540]LogExit: Editor shut down
+[2026.04.29-18.06.20:730][540]LogExit: Transaction tracking system shut down
+[2026.04.29-18.06.20:858][540]LogExit: Object subsystem successfully closed.
+[2026.04.29-18.06.20:890][540]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.04.29-18.06.21:143][540]LogMemoryProfiler: Shutdown
+[2026.04.29-18.06.21:143][540]LogNetworkingProfiler: Shutdown
+[2026.04.29-18.06.21:143][540]LoadingProfiler: Shutdown
+[2026.04.29-18.06.21:143][540]LogTimingProfiler: Shutdown
+[2026.04.29-18.06.21:143][540]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.04.29-18.06.21:143][540]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.04.29-18.06.21:394][540]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.04.29-18.06.21:407][540]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.04.29-18.06.21:407][540]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBA4286D4-4021-3E6F-2109-F88C8EAA7C1B%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=5.6.1-0%2BUE5&UserID=b045b3414847dadbc48353be3e748539%7C4c7cfa7d1efd4db795394d08c6a4d70a%7Ccd2b6fe3-4528-4e41-ad40-a90f1c7073b9&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.04.29-18.06.21:958][540]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.04.29-18.06.21:958][540]LogNFORDenoise: NFORDenoise function shutting down
+[2026.04.29-18.06.21:965][540]RenderDocPlugin: plugin has been unloaded.
+[2026.04.29-18.06.21:967][540]LogXGEController: Cleaning working directory: C:/Users/alexa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.04.29-18.06.21:968][540]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.04.29-18.06.21:968][540]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.04.29-18.06.21:968][540]LogPakFile: Destroying PakPlatformFile
+[2026.04.29-18.06.22:474][540]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.04.29-18.06.22:511][540]LogExit: Exiting.
+[2026.04.29-18.06.22:526][540]Log file closed, 04/29/26 19:06:22
