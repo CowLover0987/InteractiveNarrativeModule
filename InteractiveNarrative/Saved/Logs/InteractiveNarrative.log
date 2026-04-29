@@ -1340,3 +1340,20 @@ BUILD FAILED
 [2026.04.29-17.42.54:344][293]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2026.04.29-17.42.54:344][293]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/Collections/' because it could not be accessed. Aborting watch request...
 [2026.04.29-17.42.54:344][293]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/Developers/alexa/Collections/' because it could not be accessed. Aborting watch request...
+[2026.04.29-17.43.26:031][389]LogDerivedDataCache: ../../../Engine/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.29-17.43.49:920][ 69]LogStreaming: Display: FlushAsyncLoading(393): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.29-17.43.50:922][ 69]LogSkeletalMesh: Display: [AssetLog] C:\Users\alexa\OneDrive\Documents\GitHub\InteractiveNarrativeModule\InteractiveNarrative\Content\AssetsvilleTown\Meshes\Vehicles\SK_veh_TruckTrailer_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2026.04.29-17.43.50:994][ 69]LogChaosDD: Creating Chaos Debug Draw Scene for world Overview
+[2026.04.29-17.43.51:872][ 69]LogChaosDD: Creating Chaos Debug Draw Scene for world Demonstration
+[2026.04.29-17.43.52:220][ 69]LogObjectTools: Deleting 2 worlds: /Game/AssetsvilleTown/Maps/Overview.Overview, /Game/AssetsvilleTown/Maps/Demonstration.Demonstration
+[2026.04.29-17.43.52:220][ 69]LogObjectTools: Currently 1 active worlds: /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.04.29-17.43.52:289][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.04.29-17.43.53:448][ 69]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.29-17.43.53:463][ 69]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-17.43.53:465][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.43.53:466][ 69]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-17.43.53:476][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-17.43.55:581][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.04.29-17.43.55:606][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.04.29-17.43.55:626][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.04.29-17.43.55:754][ 69]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/SourceControl/UncontrolledChangelists.json

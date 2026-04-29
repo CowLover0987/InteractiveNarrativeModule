@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/AssetsvilleTown/Maps/Demonstration.umap",
+				"C:/Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/AssetsvilleTown/Maps/Demonstration_BuiltData.uasset",
+				"C:/Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/AssetsvilleTown/Maps/Overview.umap",
+				"C:/Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/AssetsvilleTown/Maps/Overview_BuiltData.uasset"
+			]
+		}
+	]
+}
