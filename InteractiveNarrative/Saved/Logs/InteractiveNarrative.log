@@ -1725,3 +1725,117 @@ FPackageName: Skipped package /Game/InteractiveNarrative/_GENERATED/alexa/Box_A5
 [2026.05.11-13.45.59:463][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.05.11-13.45.59:475][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
 [2026.05.11-13.45.59:530][153]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2026.05.11-13.47.19:348][515]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 322.109497
+[2026.05.11-13.47.19:509][524]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.11-13.47.19:509][524]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 322.255981, Update Interval: 357.842957
+[2026.05.11-13.47.23:436][747]Cmd: TRANSACTION UNDO
+[2026.05.11-13.47.23:436][747]LogEditorTransaction: Undo Foliage Editing
+[2026.05.11-13.47.37:935][570]Cmd: TRANSACTION UNDO
+[2026.05.11-13.47.37:935][570]LogEditorTransaction: Undo Foliage Editing
+[2026.05.11-13.47.50:368][363]Cmd: TRANSACTION UNDO
+[2026.05.11-13.47.50:368][363]LogEditorTransaction: Undo Foliage Editing
+[2026.05.11-13.47.55:109][616]Cmd: TRANSACTION UNDO
+[2026.05.11-13.47.55:109][616]LogEditorTransaction: Undo Foliage Editing
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: ================================================
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Total job queries 1,684, among them cache hits 477 (28.33%), DDC hits 1,105 (65.62%), Duplicates 69 (4.10%)
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Tracking 1,138 distinct input hashes that result in 707 distinct outputs (62.13%)
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: RAM used: 8.46 MiB of 1.60 GiB budget. Usage: 0.52%
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Shaders Compiled: 33
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Jobs assigned 33, completed 33 (100%)
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Average time worker was idle: 46.91 s
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Time job spent in pending queue: average 0.37 s, longest 1.89 s
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Job execution time: average 1.36 s, max 3.24 s
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Job life time (pending + execution): average 1.73 s, max 3.56
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Shader code size: total 289.844 KiB, numShaders 38, average 7.627 KiB, min 2.691 KiB, max 13.695 KiB
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.30 s
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Jobs were issued in 33 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Average processing rate: 3.55 jobs/sec
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Total thread time: 31.908 s
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Total thread preprocess time: 30.216 s
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Percentage time preprocessing: 94.70%
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Effective parallelization: 3.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.342951
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 2.45 sec, max 2.45 sec, min 2.45 sec)
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.50 sec, max 1.80 sec, min 1.30 sec)
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    4 times, average 1.19 sec, max 1.44 sec, min 0.98 sec)
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 1.12 sec, max 1.12 sec, min 1.12 sec)
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.90 sec, max 1.07 sec, min 0.75 sec)
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display:                                                  FVelocityPS - 14.98% of total time (compiled    4 times, average 1.19 sec, max 1.44 sec, min 0.98 sec)
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.12% of total time (compiled    5 times, average 0.90 sec, max 1.07 sec, min 0.75 sec)
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.09% of total time (compiled    3 times, average 1.50 sec, max 1.80 sec, min 1.30 sec)
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display:                                                  FHitProxyVS - 8.51% of total time (compiled    5 times, average 0.54 sec, max 0.68 sec, min 0.42 sec)
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display:                                                  FVelocityVS - 7.83% of total time (compiled    4 times, average 0.62 sec, max 0.73 sec, min 0.54 sec)
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: === Material stats ===
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Materials Translated:    147
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Material Translation Only: 0.05 s (39%)
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: Material Cache Hits: 17 (12%)
+[2026.05.11-13.48.01:765][  8]LogShaderCompilers: Display: ================================================
+[2026.05.11-13.48.03:910][161]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.05.11-13.49.38:103][796]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.11-13.49.38:112][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.11-13.49.38:112][796]LogPlayLevel: Creating play world package: /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives
+[2026.05.11-13.49.38:143][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030616s)
+[2026.05.11-13.49.38:143][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InteractiveNarrative/InteractiveNarratives.InteractiveNarratives to /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives.InteractiveNarratives (0.030671s)
+[2026.05.11-13.49.38:170][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.05.11-13.49.38:172][796]LogChaosDD: Creating Chaos Debug Draw Scene for world InteractiveNarratives
+[2026.05.11-13.49.38:175][796]LogPlayLevel: PIE: World Init took: (0.002585s)
+[2026.05.11-13.49.38:176][796]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.05.11-13.49.38:176][796]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.11-13.49.38:176][796]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.11-13.49.38:176][796]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.11-13.49.38:176][796]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.11-13.49.38:176][796]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.11-13.49.38:176][796]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.11-13.49.38:176][796]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.11-13.49.38:176][796]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.11-13.49.38:176][796]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.11-13.49.38:176][796]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.11-13.49.38:176][796]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.11-13.49.38:179][796]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.11-13.49.38:221][796]LogAudioMixer: Display: Using Audio Hardware Device PL2274HD (High Definition Audio Device)
+[2026.05.11-13.49.38:221][796]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.11-13.49.38:221][796]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.11-13.49.38:221][796]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.11-13.49.38:222][796]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.05.11-13.49.38:222][796]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.05.11-13.49.38:225][796]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.05.11-13.49.38:225][796]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.05.11-13.49.38:225][796]LogInit: FAudioDevice initialized with ID 5.
+[2026.05.11-13.49.38:225][796]LogAudio: Display: Audio Device (ID: 5) registered with world 'InteractiveNarratives'.
+[2026.05.11-13.49.38:225][796]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.05.11-13.49.38:234][796]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.11-13.49.38:267][796]LogWorld: Bringing World /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives.InteractiveNarratives up for play (max tick rate 0) at 2026.05.11-14.49.38
+[2026.05.11-13.49.38:269][796]LogWorld: Bringing up level for play took: 0.034681
+[2026.05.11-13.49.38:273][796]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2026.05.11-13.49.38:278][796]PIE: Server logged in
+[2026.05.11-13.49.38:283][796]PIE: Play in editor total start time 0.171 seconds.
+[2026.05.11-13.49.38:371][797]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.11-13.49.39:103][838]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.05.11-13.49.39:103][838]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.11-13.49.39:103][838]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.05.11-13.49.39:545][864]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.11-13.49.39:545][864]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.05.11-13.49.49:321][468]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.05.11-13.50.06:687][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.11-13.50.06:687][528]LogWorld: BeginTearingDown for /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives
+[2026.05.11-13.50.06:687][528]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.11-13.50.06:688][528]LogWorld: UWorld::CleanupWorld for InteractiveNarratives, bSessionEnded=true, bCleanupResources=true
+[2026.05.11-13.50.06:693][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.11-13.50.06:695][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.11-13.50.06:700][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.11-13.50.06:724][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.11-13.50.06:725][528]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.05.11-13.50.06:725][528]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.05.11-13.50.06:729][528]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.05.11-13.50.06:751][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.05.11-13.50.06:807][529]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.05.11-13.50.09:226][694]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
