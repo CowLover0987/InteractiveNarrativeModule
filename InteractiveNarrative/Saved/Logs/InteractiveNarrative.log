@@ -1607,3 +1607,33 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.05.18-09.47.03:546][767]LogEditorTransaction: Undo Rotate Elements
 [2026.05.18-09.47.03:754][769]Cmd: TRANSACTION UNDO
 [2026.05.18-09.47.03:754][769]LogEditorTransaction: Undo Rotate Elements
+[2026.05.18-09.49.27:877][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.05.18-09.49.28:578][278]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InteractiveNarrative/InteractiveNarratives_Auto1
+[2026.05.18-09.49.28:579][278]LogSavePackage: Moving '../../../../../../Users/mvmax/Documents/Unreal Projects/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/InteractiveNarratives_Auto19755F36C4CA6E6FA4F9212944135F65F.tmp' to '../../../../../../Users/mvmax/Documents/Unreal Projects/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/Autosaves/Game/InteractiveNarrative/InteractiveNarratives_Auto1.umap'
+[2026.05.18-09.49.28:583][278]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InteractiveNarrative/InteractiveNarratives' took 0.757
+[2026.05.18-09.49.28:583][278]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.757
+[2026.05.18-09.49.47:039][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.05.18-09.49.47:050][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.18-09.49.47:206][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.05.18-09.49.47:450][427]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/InteractiveNarratives
+[2026.05.18-09.49.47:451][427]LogSavePackage: Moving '../../../../../../Users/mvmax/Documents/Unreal Projects/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/InteractiveNarratives08224057422C6681D148368B870C54C1.tmp' to '../../../../../../Users/mvmax/Documents/Unreal Projects/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/InteractiveNarratives.umap'
+[2026.05.18-09.49.47:466][427]LogFileHelpers: Saving map 'InteractiveNarratives' took 0.339
+[2026.05.18-09.49.47:532][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.05.18-09.49.47:777][427]LogSavePackage: Moving output files for package: /Game/InteractiveNarrative/InteractiveNarratives_with_Buildings
+[2026.05.18-09.49.47:777][427]LogSavePackage: Moving '../../../../../../Users/mvmax/Documents/Unreal Projects/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/InteractiveNarratives_with_Build9031925243CC9D1D276BE99B6EE7C56E.tmp' to '../../../../../../Users/mvmax/Documents/Unreal Projects/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/InteractiveNarrative/InteractiveNarratives_with_Buildings.umap'
+[2026.05.18-09.49.47:810][427]LogFileHelpers: Saving map 'InteractiveNarratives_with_Buildings' took 0.345
+[2026.05.18-09.49.47:840][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 789.817 ms
+[2026.05.18-09.49.47:911][427]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.18-09.49.47:911][427]LogContentValidation: Enabled validators:
+[2026.05.18-09.49.47:912][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.18-09.49.47:912][427]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.18-09.49.47:912][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.18-09.49.47:912][427]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.18-09.49.47:912][427]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.18-09.49.47:912][427]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.18-09.49.47:915][427]AssetCheck: /Game/InteractiveNarrative/InteractiveNarratives Validating asset
+[2026.05.18-09.49.47:915][427]AssetCheck: /Game/InteractiveNarrative/InteractiveNarratives_with_Buildings Validating asset
+[2026.05.18-09.49.47:962][427]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mvmax/Documents/Unreal Projects/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.18-09.49.59:218][519]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1408.527466
+[2026.05.18-09.50.00:218][522]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.18-09.50.00:218][522]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1409.194214, Update Interval: 303.997314
