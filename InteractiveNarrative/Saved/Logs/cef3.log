@@ -1,11 +1,25 @@
-[31112:6476:0517/163041.849:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[31112:3896:0517/163041.877:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[31112:6476:0517/163041.885:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[31112:15736:0517/163043.192:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\saman\Documents\GitHub\InteractiveNarrativeModule\InteractiveNarrative\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\saman\Documents\GitHub\InteractiveNarrativeModule\InteractiveNarrative\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[31112:39072:0517/163043.194:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\saman\Documents\GitHub\InteractiveNarrativeModule\InteractiveNarrative\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\saman\Documents\GitHub\InteractiveNarrativeModule\InteractiveNarrative\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[31112:39072:0517/163043.196:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\saman\Documents\GitHub\InteractiveNarrativeModule\InteractiveNarrative\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\saman\Documents\GitHub\InteractiveNarrativeModule\InteractiveNarrative\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[31112:39072:0517/163043.198:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\saman\Documents\GitHub\InteractiveNarrativeModule\InteractiveNarrative\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\saman\Documents\GitHub\InteractiveNarrativeModule\InteractiveNarrative\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[31112:24336:0517/163043.511:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[31112:24336:0517/163043.512:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15296:47140:0517/163044.555:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D96DA5EC9E76E0778777EC01EAE4C2EE will be ignored
-[31112:6476:0517/163128.301:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[732:31644:0516/230908.764:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[732:27572:0516/230908.961:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[732:31644:0516/230909.031:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[4912:25072:0516/230913.254:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D44CB3E2E69EC5DBE3A3743D8893A305 will be ignored
+[732:17124:0516/230913.665:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[732:31644:0516/230913.707:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[732:31644:0516/230913.707:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[732:31644:0516/230913.707:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[732:31644:0516/230913.707:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[732:17124:0516/230913.753:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[29908:28068:0516/230914.731:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29908:28068:0516/230915.542:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29908:11836:0516/230915.567:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29908:11836:0516/230915.567:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29908:11836:0516/230915.568:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[16332:26408:0516/230915.827:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[16332:26408:0516/230915.832:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[16332:26408:0516/230915.832:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[16332:26408:0516/230915.832:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[29908:11836:0516/230915.832:WARNING:stun_port.cc(442)] Port[265b800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[29908:11836:0516/230915.833:WARNING:stun_port.cc(442)] Port[3ff0800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[29908:11836:0516/230915.833:WARNING:stun_port.cc(442)] Port[3ff1000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[21576:17176:0516/231122.775:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[732:31644:0517/004753.430:ERROR:device_event_log_impl.cc(196)] [00:47:53.189] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[732:31644:0517/011749.829:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
