@@ -5329,3 +5329,37 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.19-15.28.43:640][212]LogSlate: Took 0.001013 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2026.05.19-15.28.43:648][212]LogSlate: Took 0.000979 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2026.05.19-15.28.43:653][212]LogSlate: Took 0.000912 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.05.19-15.29.36:745][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.05.19-15.29.37:784][529]LogSlate: Window 'Save Content' being destroyed
+[2026.05.19-15.29.37:796][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.19-15.29.37:863][529]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.05.19-15.29.38:013][529]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.05.19-15.29.38:013][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.05.19-15.29.38:128][529]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.05.19-15.29.38:129][529]LogSavePackage: Moving '../../../../../../Users/2502115/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/BP_FirstPersonCharacter31DF21944AA995A93E16F59CF0448CC1.tmp' to '../../../../../../Users/2502115/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.05.19-15.29.38:132][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ObjectiveSyste/BP_ObjectiveTrigger] ([2] browsable assets)...
+[2026.05.19-15.29.38:132][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/ObjectiveSyste/BP_ObjectiveTrigger]
+[2026.05.19-15.29.38:142][529]LogSavePackage: Moving output files for package: /Game/ObjectiveSyste/BP_ObjectiveTrigger
+[2026.05.19-15.29.38:143][529]LogSavePackage: Moving '../../../../../../Users/2502115/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/BP_ObjectiveTrigger4086C217427384B1336E499867B0578E.tmp' to '../../../../../../Users/2502115/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/ObjectiveSyste/BP_ObjectiveTrigger.uasset'
+[2026.05.19-15.29.38:145][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ObjectiveSyste/BP_Objective_marker] ([2] browsable assets)...
+[2026.05.19-15.29.38:145][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/ObjectiveSyste/BP_Objective_marker]
+[2026.05.19-15.29.38:155][529]LogSavePackage: Moving output files for package: /Game/ObjectiveSyste/BP_Objective_marker
+[2026.05.19-15.29.38:156][529]LogSavePackage: Moving '../../../../../../Users/2502115/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/BP_Objective_marker885CA0154E31A6AAA8060684C31C1D3B.tmp' to '../../../../../../Users/2502115/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/ObjectiveSyste/BP_Objective_marker.uasset'
+[2026.05.19-15.29.38:158][529]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ObjectiveSyste/WBP_Objective_Marker] ([2] browsable assets)...
+[2026.05.19-15.29.38:164][529]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ObjectiveSyste/WBP_Objective_Marker.WBP_Objective_Marker]
+[2026.05.19-15.29.38:164][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/ObjectiveSyste/WBP_Objective_Marker]
+[2026.05.19-15.29.38:178][529]LogSavePackage: Moving output files for package: /Game/ObjectiveSyste/WBP_Objective_Marker
+[2026.05.19-15.29.38:178][529]LogSavePackage: Moving '../../../../../../Users/2502115/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/WBP_Objective_Marker5F4ACF994DB07999C2D72997EC2EF7A7.tmp' to '../../../../../../Users/2502115/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/ObjectiveSyste/WBP_Objective_Marker.uasset'
+[2026.05.19-15.29.38:228][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 432.499 ms (total: 5.73 sec)
+[2026.05.19-15.29.38:291][529]LogContentValidation: Display: Starting to validate 4 assets
+[2026.05.19-15.29.38:291][529]LogContentValidation: Enabled validators:
+[2026.05.19-15.29.38:291][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.19-15.29.38:291][529]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.19-15.29.38:291][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.19-15.29.38:291][529]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.19-15.29.38:291][529]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.19-15.29.38:291][529]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.19-15.29.38:291][529]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.05.19-15.29.38:291][529]AssetCheck: /Game/ObjectiveSyste/BP_ObjectiveTrigger Validating asset
+[2026.05.19-15.29.38:291][529]AssetCheck: /Game/ObjectiveSyste/BP_Objective_marker Validating asset
+[2026.05.19-15.29.38:292][529]AssetCheck: /Game/ObjectiveSyste/WBP_Objective_Marker Validating asset
