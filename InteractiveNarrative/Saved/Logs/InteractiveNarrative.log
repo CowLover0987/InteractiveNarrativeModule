@@ -3748,3 +3748,374 @@ FPackageName: Skipped package /Game/FirstPerson/Blueprints/LookAtMe has a valid,
 [2026.05.20-20.00.13:236][965]AssetCheck: /Game/Characters/Police/BP_PoliceTalk Validating asset
 [2026.05.20-20.00.13:236][965]AssetCheck: /Game/InteractiveNarrative/DinerInteroir Validating asset
 [2026.05.20-20.00.13:263][965]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Users/alexa/OneDrive/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.20-20.00.40:947][734]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.20-20.00.40:954][734]LogContentBundle: [DinerInteroir(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.20-20.00.40:954][734]LogWorldPartition: Display: GenerateStreaming for 'DinerInteroir' started...
+[2026.05.20-20.00.40:958][734]LogWorldPartition: Display: GenerateStreaming for 'DinerInteroir' took 2.954 ms (total: 21.555 ms)
+[2026.05.20-20.00.40:958][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.20-20.00.40:958][734]LogPlayLevel: Creating play world package: /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir
+[2026.05.20-20.00.40:984][734]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.20-20.00.40:991][734]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.243 ms (total: 44.267 ms)
+[2026.05.20-20.00.40:991][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033003s)
+[2026.05.20-20.00.40:991][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InteractiveNarrative/DinerInteroir.DinerInteroir to /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir.DinerInteroir (0.033056s)
+[2026.05.20-20.00.41:019][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.05.20-20.00.41:020][734]LogChaosDD: Creating Chaos Debug Draw Scene for world DinerInteroir
+[2026.05.20-20.00.41:022][734]LogWorldPartition: ULevel::OnLevelLoaded(DinerInteroir)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.20-20.00.41:022][734]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.20-20.00.41:022][734]LogWorldPartition: UWorldPartition::Initialize : World = /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir.DinerInteroir, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.20-20.00.41:022][734]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.20-20.00.41:032][734]LogWorldPartition: Display: WorldPartition initialize took 10.079 ms (total: 448.830 ms)
+[2026.05.20-20.00.41:032][734]LogPlayLevel: PIE: World Init took: (0.011779s)
+[2026.05.20-20.00.41:033][734]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.05.20-20.00.41:033][734]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.20-20.00.41:033][734]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.20-20.00.41:033][734]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.20-20.00.41:033][734]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.20-20.00.41:033][734]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.20-20.00.41:033][734]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.20-20.00.41:033][734]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.20-20.00.41:033][734]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.20-20.00.41:033][734]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.20-20.00.41:033][734]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.20-20.00.41:033][734]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.20-20.00.41:036][734]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.20-20.00.41:077][734]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova Pro)
+[2026.05.20-20.00.41:078][734]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.20-20.00.41:078][734]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.20-20.00.41:078][734]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.20-20.00.41:078][734]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.05.20-20.00.41:078][734]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.05.20-20.00.41:081][734]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.05.20-20.00.41:081][734]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.05.20-20.00.41:081][734]LogInit: FAudioDevice initialized with ID 9.
+[2026.05.20-20.00.41:081][734]LogAudio: Display: Audio Device (ID: 9) registered with world 'DinerInteroir'.
+[2026.05.20-20.00.41:081][734]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.05.20-20.00.41:085][734]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.20-20.00.41:087][734]LogWorld: Bringing World /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir.DinerInteroir up for play (max tick rate 0) at 2026.05.20-21.00.41
+[2026.05.20-20.00.41:088][734]LogWorld: Bringing up level for play took: 0.001914
+[2026.05.20-20.00.41:091][734]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2026.05.20-20.00.41:098][734]LogStreaming: Display: FlushAsyncLoading(1189,1188,1187,1186,1185,1184,1183,1182,1181,1180,1179,1178,1177,1176,1175,1174,1173,1172,1171,1170,1169,1168,1167,1166,1165,1164,1163,1162,1161,1160,1159,1158,1157,1156,1155,1154,1153,1152,1151,1150,1100,1101,1102,1103,1104,1105,1106,1107,1108,1109,1110,1111,1112,1113,1114,1115,1116,1117,1118,1119,1120,1121,1122,1123,1124,1125,1126,1127,1128,1129,1130,1131,1132,1133,1134,1135,1136,1137,1138,1139,1140,1141,1142,1143,1144,1145,1146,1147,1148,1149): 90 QueuedPackages, 0 AsyncPackages
+[2026.05.20-20.00.41:352][734]PIE: Server logged in
+[2026.05.20-20.00.41:354][734]PIE: Play in editor total start time 0.4 seconds.
+[2026.05.20-20.00.41:474][735]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.20-20.00.42:480][841]LogBlueprintUserMessages: [BP_Item_C_UAID_A82BDD2DA7C5D8DC02_1651319896] Item picked up
+[2026.05.20-20.00.42:480][841]LogBlueprintUserMessages: [BPC_Inventory] Shift Rota
+[2026.05.20-20.00.42:481][841]LogBlueprintUserMessages: [BPC_Inventory] Shift Rota
+[2026.05.20-20.00.42:481][841]LogBlueprintUserMessages: [BPC_Inventory] Evidence: "I did not weild the murder weapon"
+[2026.05.20-20.00.42:481][841]LogBlueprintUserMessages: [BPC_Inventory] Evidence: "I did not weild the murder weapon"
+[2026.05.20-20.00.42:481][841]LogBlueprintUserMessages: [BPC_Inventory] Evidence: "My albi"
+[2026.05.20-20.00.42:481][841]LogBlueprintUserMessages: [BPC_Inventory] Evidence: "My albi"
+[2026.05.20-20.00.43:480][956]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.05.20-20.00.43:480][956]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.20-20.00.43:480][956]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.05.20-20.00.44:659][ 93]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2026, getting last resort font data C:/Users/2501109/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/UI/puffberry-font/Puffberry-Demo.ttf
+[2026.05.20-20.00.44:660][ 93]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2026, getting last resort font data C:/Users/2501109/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/UI/puffberry-font/Puffberry-Demo.ttf
+[2026.05.20-20.00.47:633][444]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.20-20.00.47:633][444]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.05.20-20.00.49:096][607]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/InteractiveNarrative/InteractiveNarratives_with_Buildings"
+[2026.05.20-20.00.49:096][607]LogNet: Browse: /Game/InteractiveNarrative/InteractiveNarratives_with_Buildings
+[2026.05.20-20.00.49:097][607]LogLoad: LoadMap: /Game/InteractiveNarrative/InteractiveNarratives_with_Buildings
+[2026.05.20-20.00.49:097][607]LogWorld: BeginTearingDown for /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir
+[2026.05.20-20.00.49:110][607]LogWorld: UWorld::CleanupWorld for DinerInteroir, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-20.00.49:111][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-20.00.49:111][607]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir.DinerInteroir
+[2026.05.20-20.00.49:184][607]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.20-20.00.49:193][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.05.20-20.00.49:197][607]LogStreaming: Display: FlushAsyncLoading(1190): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.20-20.00.49:345][607]LogAudio: Display: Audio Device (ID: 9) registered with world 'InteractiveNarratives_with_Buildings'.
+[2026.05.20-20.00.49:345][607]LogChaosDD: Creating Chaos Debug Draw Scene for world InteractiveNarratives_with_Buildings
+[2026.05.20-20.00.49:347][607]LogPlayLevel: PIE: World Init took: (0.001803s)
+[2026.05.20-20.00.49:347][607]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.20-20.00.49:347][607]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/DinerAsset/UEDPIE_0_Diner_exterior) is flushing async loading
+[2026.05.20-20.00.49:433][607]LogWorld: Bringing World /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings up for play (max tick rate 0) at 2026.05.20-21.00.49
+[2026.05.20-20.00.49:437][607]LogWorld: Bringing up level for play took: 0.084186
+[2026.05.20-20.00.49:438][607]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.05.20-20.00.49:441][607]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/Characters/NPCs/BP_NPCs.BP_NPCs_C'!
+[2026.05.20-20.00.49:441][607]LogScript: Warning: Script Msg called by: BP_NPCs_C /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings:PersistentLevel.BP_NPCs_C_1
+[2026.05.20-20.00.49:441][607]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/Characters/NPCs/BP_NPCs.BP_NPCs_C'!
+[2026.05.20-20.00.49:441][607]LogScript: Warning: Script Msg called by: BP_NPCs_C /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings:PersistentLevel.BP_NPCs_C_2
+[2026.05.20-20.00.49:441][607]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/Characters/NPCs/BP_NPCs.BP_NPCs_C'!
+[2026.05.20-20.00.49:441][607]LogScript: Warning: Script Msg called by: BP_NPCs_C /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings:PersistentLevel.BP_NPCs_C_3
+[2026.05.20-20.00.49:441][607]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/Characters/NPCs/BP_NPCs.BP_NPCs_C'!
+[2026.05.20-20.00.49:441][607]LogScript: Warning: Script Msg called by: BP_NPCs_C /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings:PersistentLevel.BP_NPCs_C_4
+[2026.05.20-20.00.49:443][607]LogLoad: Took 0.347541 seconds to LoadMap(/Game/InteractiveNarrative/InteractiveNarratives_with_Buildings)
+[2026.05.20-20.00.49:443][607]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/InteractiveNarrative/InteractiveNarratives_with_Buildings
+[2026.05.20-20.00.49:478][607]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2026.05.20-20.00.49:523][608]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.20-20.00.49:549][609]LogStreaming: Display: FlushAsyncLoading(1193): 1 QueuedPackages, 1 AsyncPackages
+[2026.05.20-20.00.49:651][610]LogStreaming: Display: UWorld::AddToWorld: updating components for /Temp/Game/DinerAsset/UEDPIE_0_LI_Diner_All_LevelInstance_4c5b8c94e81b8b07_1 took (less than) 33.52 ms
+[2026.05.20-20.00.51:065][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.20-20.00.51:065][729]LogWorld: BeginTearingDown for /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings
+[2026.05.20-20.00.51:065][729]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.20-20.00.51:067][729]LogWorld: UWorld::CleanupWorld for InteractiveNarratives_with_Buildings, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-20.00.51:076][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-20.00.51:078][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.20-20.00.51:084][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-20.00.51:116][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.20-20.00.51:117][729]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.05.20-20.00.51:117][729]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.05.20-20.00.51:119][729]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.05.20-20.00.51:141][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.05.20-20.00.51:211][730]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.05.20-20.00.51:242][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.05.20-20.01.00:453][ 32]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-20.01.00:453][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-20.01.00:581][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.05.20-20.01.01:051][ 58]LogSlate: Window 'BP_PoliceTalk' being destroyed
+[2026.05.20-20.01.01:095][ 58]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.20-20.01.01:095][ 58]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-20.01.01:095][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-20.01.01:168][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.05.20-20.01.09:635][891]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.05.20-20.01.09:934][909]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01_MRA.T_Quinn_01_MRA (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.05.20-20.01.09:947][909]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02_D.T_Quinn_02_D (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.05.20-20.01.09:961][909]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02_MRA.T_Quinn_02_MRA (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.05.20-20.01.09:971][909]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01_D.T_Quinn_01_D (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.05.20-20.01.09:982][909]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_02_N.T_Quinn_02_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 214.499988 MB), EncodeSpeed: Fast
+[2026.05.20-20.01.09:995][909]LogTexture: Display: Building textures: /Game/Characters/Mannequins/Textures/Quinn/T_Quinn_01_N.T_Quinn_01_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 214.499988 MB), EncodeSpeed: Fast
+[2026.05.20-20.01.35:893][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.05.20-20.01.35:896][283]LogStreaming: Display: FlushAsyncLoading(1229): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.20-20.01.36:071][283]LogChaosDD: Creating Chaos Debug Draw Scene for world InteractiveNarratives_with_Buildings
+[2026.05.20-20.01.36:115][283]LogAssetEditorSubsystem: Opening Asset editor for World /Game/InteractiveNarrative/InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings
+[2026.05.20-20.01.36:154][283]LogWorld: UWorld::CleanupWorld for DinerInteroir, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-20.01.36:154][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-20.01.36:154][283]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/InteractiveNarrative/DinerInteroir.DinerInteroir
+[2026.05.20-20.01.36:222][283]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.20-20.01.36:237][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.05.20-20.01.36:252][283]LogWorld: UWorld::CleanupWorld for InteractiveNarratives_with_Buildings, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-20.01.36:253][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-20.01.36:307][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.05.20-20.01.36:336][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.05.20-20.01.36:477][283]LogAudio: Display: Audio Device (ID: 1) registered with world 'InteractiveNarratives_with_Buildings'.
+[2026.05.20-20.01.36:477][283]LogChaosDD: Creating Chaos Debug Draw Scene for world InteractiveNarratives_with_Buildings
+[2026.05.20-20.01.36:571][283]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/DinerAsset/Diner_exterior) is flushing async loading
+[2026.05.20-20.01.36:607][283]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.05.20-20.01.36:668][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.05.20-20.01.36:682][283]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.05.20-20.01.36:682][283]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2026.05.20-20.01.36:739][283]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DinerAsset/LI_Diner_All_LevelInstance_951f526d89d02d99_0) is flushing async loading
+[2026.05.20-20.01.36:756][283]LogLevelInstance: Loaded 1 levels in 0.016 seconds
+[2026.05.20-20.01.36:880][285]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.20-20.01.41:216][580]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/BP_Item.BP_Item
+[2026.05.20-20.01.41:216][580]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.05.20-20.02.58:677][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.05.20-20.03.00:824][435]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.20-20.03.00:833][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.20-20.03.00:855][435]LogPlayLevel: Creating play world package: /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings
+[2026.05.20-20.03.00:928][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072994s)
+[2026.05.20-20.03.00:928][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InteractiveNarrative/InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings to /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings (0.073037s)
+[2026.05.20-20.03.00:960][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.05.20-20.03.00:961][435]LogChaosDD: Creating Chaos Debug Draw Scene for world InteractiveNarratives_with_Buildings
+[2026.05.20-20.03.00:964][435]LogPlayLevel: PIE: World Init took: (0.001810s)
+[2026.05.20-20.03.00:964][435]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.05.20-20.03.00:964][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.20-20.03.00:964][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.20-20.03.00:964][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.20-20.03.00:964][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.20-20.03.00:964][435]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.20-20.03.00:964][435]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.20-20.03.00:964][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.20-20.03.00:964][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.20-20.03.00:964][435]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.20-20.03.00:964][435]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.20-20.03.00:964][435]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.20-20.03.00:967][435]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.20-20.03.01:007][435]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova Pro)
+[2026.05.20-20.03.01:008][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.20-20.03.01:008][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.20-20.03.01:008][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.20-20.03.01:008][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.05.20-20.03.01:008][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.05.20-20.03.01:011][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.05.20-20.03.01:011][435]LogInit: FAudioDevice initialized with ID 10.
+[2026.05.20-20.03.01:011][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.05.20-20.03.01:011][435]LogAudio: Display: Audio Device (ID: 10) registered with world 'InteractiveNarratives_with_Buildings'.
+[2026.05.20-20.03.01:011][435]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.05.20-20.03.01:016][435]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.20-20.03.01:023][435]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2026.05.20-20.03.01:023][435]LogStreaming: Display: FlushAsyncLoading(1269): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.20-20.03.01:083][435]LogWorld: Bringing World /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings up for play (max tick rate 0) at 2026.05.20-21.03.01
+[2026.05.20-20.03.01:087][435]LogWorld: Bringing up level for play took: 0.048802
+[2026.05.20-20.03.01:089][435]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.05.20-20.03.01:092][435]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/Characters/NPCs/BP_NPCs.BP_NPCs_C'!
+[2026.05.20-20.03.01:092][435]LogScript: Warning: Script Msg called by: BP_NPCs_C /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings:PersistentLevel.BP_NPCs_C_1
+[2026.05.20-20.03.01:092][435]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/Characters/NPCs/BP_NPCs.BP_NPCs_C'!
+[2026.05.20-20.03.01:094][435]LogScript: Warning: Script Msg called by: BP_NPCs_C /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings:PersistentLevel.BP_NPCs_C_2
+[2026.05.20-20.03.01:094][435]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/Characters/NPCs/BP_NPCs.BP_NPCs_C'!
+[2026.05.20-20.03.01:094][435]LogScript: Warning: Script Msg called by: BP_NPCs_C /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings:PersistentLevel.BP_NPCs_C_3
+[2026.05.20-20.03.01:094][435]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/Characters/NPCs/BP_NPCs.BP_NPCs_C'!
+[2026.05.20-20.03.01:094][435]LogScript: Warning: Script Msg called by: BP_NPCs_C /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings:PersistentLevel.BP_NPCs_C_4
+[2026.05.20-20.03.01:096][435]PIE: Server logged in
+[2026.05.20-20.03.01:099][435]PIE: Play in editor total start time 0.266 seconds.
+[2026.05.20-20.03.01:179][436]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.20-20.03.01:820][484]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.05.20-20.03.01:820][484]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.20-20.03.01:820][484]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.05.20-20.03.02:855][587]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.20-20.03.02:855][587]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.05.20-20.03.05:043][795]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/InteractiveNarrative/DinerInteroir"
+[2026.05.20-20.03.05:044][795]LogNet: Browse: /Game/InteractiveNarrative/DinerInteroir
+[2026.05.20-20.03.05:044][795]LogLoad: LoadMap: /Game/InteractiveNarrative/DinerInteroir
+[2026.05.20-20.03.05:044][795]LogWorld: BeginTearingDown for /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings
+[2026.05.20-20.03.05:044][795]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.20-20.03.05:046][795]LogWorld: UWorld::CleanupWorld for InteractiveNarratives_with_Buildings, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-20.03.05:054][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-20.03.05:087][795]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.20-20.03.05:104][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.05.20-20.03.05:108][795]LogStreaming: Display: FlushAsyncLoading(1306): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.20-20.03.05:113][795]LogAudio: Display: Audio Device (ID: 10) registered with world 'DinerInteroir'.
+[2026.05.20-20.03.05:113][795]LogChaosDD: Creating Chaos Debug Draw Scene for world DinerInteroir
+[2026.05.20-20.03.05:115][795]LogWorldPartition: ULevel::OnLevelLoaded(DinerInteroir)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.20-20.03.05:115][795]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.20-20.03.05:115][795]LogWorldPartition: UWorldPartition::Initialize : World = /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir.DinerInteroir, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.05.20-20.03.05:115][795]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.20-20.03.05:121][795]LogWorldPartition: Display: GenerateStreaming for 'DinerInteroir' started...
+[2026.05.20-20.03.05:168][795]LogWorldPartition: Display: GenerateStreaming for 'DinerInteroir' took 47.269 ms (total: 68.824 ms)
+[2026.05.20-20.03.05:181][795]LogWorldPartition: Display: WorldPartition initialize took 66.153 ms (total: 514.984 ms)
+[2026.05.20-20.03.05:181][795]LogPlayLevel: PIE: World Init took: (0.067987s)
+[2026.05.20-20.03.05:181][795]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/0/GX/2W2ACRYA0S8T2HUZ5C0CXJ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/0/T8/FSKLLYPGR2B2BXBFHLTHDU.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/0/YZ/I9FZ5LAZA8UAQSNRGM7UQZ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/1/4C/TN4ZIR08TJ7RKKJQXHALNC.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/1/6I/GWQ5DLSCY98MY1KF47VI0S.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/1/BO/B7PV8Q0YSJV3X5416GSA6H.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/1/DX/VGBKMB4J4QW8POLZY4DIW0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/1/MU/2QBF0VQ1CM05E2NYPFQGEE.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/1/NM/93JTZP4LYT017QOKVI9BV5.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/1/TF/Z6YF4DINBLIP1ACK8ZZXTX.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/2/19/MOR73TSJS4ALJ49W6M2ZAW.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/2/B5/OMJSNXAKOKDMO3N7E2TXY8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/2/CL/Q87MXBRX38E5I3FIDZXOAI.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/2/MM/ZW84RM4MU5QORBSTPU5FON.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/3/WO/ZJ4C7NQ1BZBVE27L4VD8G3.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/3/X1/3IPGLOICU596WF3THG3XEN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/4/5A/RJRS04K9AQ0SQ6TFWF7EM7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/4/IT/LA398EQ0HQ8EEGSYDMG9I4.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/4/VH/K3NLVNCGZ1E7US0VP2X0LD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/4/Z0/MQ0AJ5R7NUT116Y04GTEUW.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/5/GZ/78KIDNS4WQT5BGO81V6LD5.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/5/LY/D500L4C60RYWRB9Y48R4SV.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/6/JL/EA38X2WRY53NTVJT216E12.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/6/K6/ARI806EGUOBJUJFU4HN5Z1.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/6/KI/PKW9KGSWAOXCZ5P2J3B613.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/6/OL/8ZCFXZGK1QYXES1HQ7M23O.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/6/OX/MTE09PO6W647P61LIOAV9E.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/7/4G/BYQ3D7IX7R9MHYRXSIEVFQ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/7/6P/8UH2SE46BZF7R899EWBXP8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/7/AZ/X9IVXTFAKPXDZWI5ICSHZ1.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/7/F9/L3K0JW1TJBCMCB5UNW2AL2.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/7/FD/BWTGPMZK9BBH51DP9NCD1F.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/7/UL/8J5NORXMNDXN25ZNZ28VUO.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/7/XK/QUWB1W7RGEWUF0QFNZ8THH.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/7/XZ/0JHYAE203GUPBH0LZINIFB.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/8/8O/F8OMLGIPN8L1ROOI8CUBDW.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:182][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/8/CT/JRHP0FWSFOD1SFJHS8USDM.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/8/NG/NDA2BFBA66LBKXILRWZ48N.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/8/NZ/467FELP13NWQG8AHE066AM.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/8/UR/ULUBM70Z8FNUG20KTPHZQL.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/9/0L/0D3MFQSKAR9ONK7N5SESPD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/9/7B/AZF4NZQP3J9MTYUEW6B15C.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/9/8R/KOMNMP52KY5VJMCC4YI74X.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/9/P0/I1G3PU9OC5MT3SOV8I4L9B.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/A/0B/I8G05MY2CCLO1K6R5Q304E.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/A/5J/K3NEZGDEW6FXHI8EA5TPPO.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/A/G4/85OBC7GARL7FW9QFVQPXXV.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/A/H6/YWK0NX6BXK0CN8D5NXT7VJ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/A/UG/3K5F4AVWOZT3X824BD5X5S.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/A/WH/MWF1M0LQQI10RZRXI37LIA.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/B/0N/NRALC4BK5FCKB4ICW88OHK.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/B/8S/WC2JADL0N0YE6OYH9AEVVM.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/B/HF/I5F2B3M3QN2LPFMXLED36E.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/B/L3/S2D9T19U7PE78ZXNWOEK70.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/B/RR/JDL06PJL2KIGOI5VV868ZT.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/B/XO/UFM0QPBZ30K5QP9JBQCX0N.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/B/XX/E8PG0IWKD1OI3N8RBDP0C5.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/C/ES/EYUCD9QZ4PQC6STB7Y2B89.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/C/NH/JUZVBTGOP5H5ZNOSJ4VAA1.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/C/WI/HO8DANUPY7QF1OU238K88Z.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/D/6J/ED5ILRQOUXYEFMEHVGJY6I.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/D/6S/NK7CCL0X3A6MPDMBTKG7BQ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/D/LC/3SGTGL5IX26K1ZGMOZ62FQ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:183][795]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/E/7H/8EAH8W7IFK986LTHTE44DJ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2026.05.20-20.03.05:200][795]LogStaticMesh: Display: Waiting for static meshes to be ready 22/64 (/Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/4/VH/K3NLVNCGZ1E7US0VP2X0LD) ...
+[2026.05.20-20.03.05:217][795]LogStaticMesh: Display: Waiting for static meshes to be ready 42/64 (/Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/9/8R/KOMNMP52KY5VJMCC4YI74X) ...
+[2026.05.20-20.03.05:233][795]LogStaticMesh: Display: Waiting for static meshes to be ready 51/64 (/Game/InteractiveNarrative/UEDPIE_0_DinerInteroir_InstanceOf_/Game/__ExternalActors__/InteractiveNarrative/DinerInteroir/B/8S/WC2JADL0N0YE6OYH9AEVVM) ...
+[2026.05.20-20.03.05:248][795]LogWorld: Bringing World /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir.DinerInteroir up for play (max tick rate 0) at 2026.05.20-21.03.05
+[2026.05.20-20.03.05:248][795]LogWorld: Bringing up level for play took: 0.003848
+[2026.05.20-20.03.05:575][795]LogLoad: Took 0.531319 seconds to LoadMap(/Game/InteractiveNarrative/DinerInteroir)
+[2026.05.20-20.03.05:575][795]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/InteractiveNarrative/DinerInteroir
+[2026.05.20-20.03.05:676][796]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.20-20.03.05:736][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.05.20-20.03.06:969][925]LogBlueprintUserMessages: [BP_Item_C_UAID_A82BDD2DA7C5D8DC02_1651319896] Item picked up
+[2026.05.20-20.03.06:969][925]LogBlueprintUserMessages: [BPC_Inventory] Shift Rota
+[2026.05.20-20.03.06:969][925]LogBlueprintUserMessages: [BPC_Inventory] Shift Rota
+[2026.05.20-20.03.06:969][925]LogBlueprintUserMessages: [BPC_Inventory] Evidence: "I did not weild the murder weapon"
+[2026.05.20-20.03.06:971][925]LogBlueprintUserMessages: [BPC_Inventory] Evidence: "I did not weild the murder weapon"
+[2026.05.20-20.03.06:971][925]LogBlueprintUserMessages: [BPC_Inventory] Evidence: "My albi"
+[2026.05.20-20.03.06:971][925]LogBlueprintUserMessages: [BPC_Inventory] Evidence: "My albi"
+[2026.05.20-20.03.07:970][ 37]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.05.20-20.03.07:970][ 37]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.20-20.03.07:970][ 37]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.05.20-20.03.09:598][221]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2026, getting last resort font data C:/Users/2501109/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/UI/puffberry-font/Puffberry-Demo.ttf
+[2026.05.20-20.03.09:599][221]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+2026, getting last resort font data C:/Users/2501109/Documents/GitHub/InteractiveNarrativeModule/InteractiveNarrative/Content/UI/puffberry-font/Puffberry-Demo.ttf
+[2026.05.20-20.03.13:717][690]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.20-20.03.13:717][690]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.05.20-20.03.15:371][874]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/InteractiveNarrative/InteractiveNarratives_with_Buildings"
+[2026.05.20-20.03.15:371][874]LogNet: Browse: /Game/InteractiveNarrative/InteractiveNarratives_with_Buildings
+[2026.05.20-20.03.15:371][874]LogLoad: LoadMap: /Game/InteractiveNarrative/InteractiveNarratives_with_Buildings
+[2026.05.20-20.03.15:371][874]LogWorld: BeginTearingDown for /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir
+[2026.05.20-20.03.15:383][874]LogWorld: UWorld::CleanupWorld for DinerInteroir, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-20.03.15:383][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-20.03.15:383][874]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/InteractiveNarrative/UEDPIE_0_DinerInteroir.DinerInteroir
+[2026.05.20-20.03.15:443][874]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.20-20.03.15:455][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.05.20-20.03.15:459][874]LogPlayLevel: Creating play world package: /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings
+[2026.05.20-20.03.15:534][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075236s)
+[2026.05.20-20.03.15:534][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InteractiveNarrative/InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings to /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings (0.075284s)
+[2026.05.20-20.03.15:534][874]LogAudio: Display: Audio Device (ID: 10) registered with world 'InteractiveNarratives_with_Buildings'.
+[2026.05.20-20.03.15:534][874]LogChaosDD: Creating Chaos Debug Draw Scene for world InteractiveNarratives_with_Buildings
+[2026.05.20-20.03.15:536][874]LogPlayLevel: PIE: World Init took: (0.002042s)
+[2026.05.20-20.03.15:536][874]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.20-20.03.15:597][874]LogWorld: Bringing World /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings up for play (max tick rate 0) at 2026.05.20-21.03.15
+[2026.05.20-20.03.15:602][874]LogWorld: Bringing up level for play took: 0.056263
+[2026.05.20-20.03.15:602][874]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.05.20-20.03.15:604][874]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/Characters/NPCs/BP_NPCs.BP_NPCs_C'!
+[2026.05.20-20.03.15:604][874]LogScript: Warning: Script Msg called by: BP_NPCs_C /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings:PersistentLevel.BP_NPCs_C_1
+[2026.05.20-20.03.15:604][874]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/Characters/NPCs/BP_NPCs.BP_NPCs_C'!
+[2026.05.20-20.03.15:604][874]LogScript: Warning: Script Msg called by: BP_NPCs_C /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings:PersistentLevel.BP_NPCs_C_2
+[2026.05.20-20.03.15:606][874]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/Characters/NPCs/BP_NPCs.BP_NPCs_C'!
+[2026.05.20-20.03.15:606][874]LogScript: Warning: Script Msg called by: BP_NPCs_C /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings:PersistentLevel.BP_NPCs_C_3
+[2026.05.20-20.03.15:606][874]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/Characters/NPCs/BP_NPCs.BP_NPCs_C'!
+[2026.05.20-20.03.15:606][874]LogScript: Warning: Script Msg called by: BP_NPCs_C /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings.InteractiveNarratives_with_Buildings:PersistentLevel.BP_NPCs_C_4
+[2026.05.20-20.03.15:608][874]LogLoad: Took 0.237545 seconds to LoadMap(/Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings)
+[2026.05.20-20.03.15:608][874]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings
+[2026.05.20-20.03.15:640][874]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2026.05.20-20.03.15:662][874]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.20-20.03.15:681][876]LogStreaming: Display: FlushAsyncLoading(1477): 1 QueuedPackages, 1 AsyncPackages
+[2026.05.20-20.03.18:095][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.20-20.03.18:095][ 98]LogWorld: BeginTearingDown for /Game/InteractiveNarrative/UEDPIE_0_InteractiveNarratives_with_Buildings
+[2026.05.20-20.03.18:095][ 98]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.20-20.03.18:097][ 98]LogWorld: UWorld::CleanupWorld for InteractiveNarratives_with_Buildings, bSessionEnded=true, bCleanupResources=true
+[2026.05.20-20.03.18:105][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-20.03.18:114][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.20-20.03.18:120][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.20-20.03.18:151][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.20-20.03.18:151][ 98]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.05.20-20.03.18:151][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.05.20-20.03.18:153][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.05.20-20.03.18:173][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.05.20-20.03.18:255][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.05.20-20.03.18:284][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
